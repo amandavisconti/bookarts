@@ -1,0 +1,60 @@
+---
+layout: items
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include head.html -%}
+
+<body>
+{%- include header.html -%}
+<main class="page-content" aria-label="Content">
+<div class="wrapper">
+{%- if page.title -%}
+	<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+{{ content }} <!-- if any in .md file -->
+
+<!-- specimen Items NOS display time! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<div class="specimen-items-nos web">
+{% assign sorted_specimen = site.data.specimen %}
+
+<ul>
+{% for row in sorted_specimen %}
+
+<h2>{{ row.Status }}</h2>
+
+<div>
+
+  
+<p>
+
+		<!-- see past work for proghist jekyll lesson filter to emulate https://github.com/programminghistorian/jekyll/blob/gh-pages/_includes/lesson-index.html -->
+
+		<!-- code for if neither exists, or just 1, since impact each other's styling -->
+		{% if row.Where and row.MonthDate %}
+			<em>{{ row.Where }}; {{ row.MonthDate }}</em><br>
+			{% elsif row.Where %} <em>{{ row.Where }}</em><br>
+			{% elsif row.MonthDate %} <em>{{ row.MonthDate }}</em><br>
+		{% endif %}
+		{% if row.Description %}{{ row.Description }}
+		{% endif %}
+
+		{% if row.Link %}<li><strong><a href="{{ row.Link }}">{{ row.Title }}</a></strong></li>
+			{% else row.Link %}<li><strong>{{ row.Title }}</strong></li>
+		{% endif %}
+
+		
+</p>
+
+{% endfor %} <!-- closes initial "for row in csv" -->
+</ul>
+</div>
+<!-- Ends specimen Items NOS section -->
+
+<!-- End specimen display time... FOREVER -->
+</div>
+</main>
+{%- include footer.html -%}
+</body>
+</html>

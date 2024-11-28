@@ -1,0 +1,10 @@
+# http://localhost:4000/bookarts/
+# to view locally
+title: 'Proto Book Arts site'
+baseurl: /bookarts
+url: "https://amandavisconti.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
