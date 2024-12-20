@@ -1,10 +1,27 @@
 ---
 layout: home
 ---
-Not sure what we want to call this yet, but wanted to start playing around with a site for our experimental/digital book arts pres/studio/makerspace thing.
+Welcome! I don't yet know the name for our new DH book arts studio, but I'm hoping collecting our public documentation here will eventually reveal a perfectly punny, im-pressive press name.
 
-Type we've access to
-Presses we've access to
-Catchwords, illustrations, ornaments, & other letterpress cuts we've access to
-Our writing & tutorials
-Our work & experiments
+# How is this different from other local book arts resources?
+We're focusing on 3 areas not currently well-supported by Charlottesville's relative wealth of bibliographic and book arts resources:
+* Low-barrier, friendly, safe/hard-to-break printing experimentation available for no cost (including for UVA classes, students, staff, faculty, local community, and hopefully beyond via virtual workshops and async means such as zines), following the UVA Library's ethos of learning and practice for all, and Scholars' Lab's staff expertise in pedagogy, practitioner-building, and community design
+* Work toward support for inclusive and multilingual printing, especially for non-Latin scripts, Braille, and other typefaces uncommon or difficult to procure in the U.S.
+* Experimental & digital humanities explorations: applying our makerspace and prototyping expertise to develop custom, cheaper, and/or otherwise unavailable typefaces and printing apparatus (e.g. to address dearth of multilingual options); explore other connections between hands-on book arts practice and our DH skillset
+
+# What will this website offer?
+* A digital "specimen book" (metadata and print examples from all the type and cuts SLab and staff personally own)
+* A research and learning roadmap, similar to my [Zine Bakery research roadmap](https://literaturegeek.com/2024/08/18/zine-bakery-research-roadmap)
+* Information about presses we've access to
+* Zines teaching book arts methods
+* Tutorials on following in our (just beginning to tread now!) footsteps related to public pedagogy, inclusive and multilingual printing, and DH+makerspace book arts experimentation
+* A gallery of photos and writeups of our experiments and learning
+* Integration with my [Zine Bakery](https://zinebakery.com) project
+
+Until I've a moment to develop this site further, I've created the following resources elsewhere pertinent to this work:
+* *[Look!! Here's your unusual letterpress blocks invitation to joy: a collage mini-zine](https://zinebakery.com/homemade-zines/hand-pie-1-weirdletterpressblocks)* Free zine introducing you to the weird world of historical letterpress cuts available on Ebay
+* A [web app](https://amandavisconti.github.io/limitedletterpress/) aiding letterpress printing when you only have 1xA-Z type
+* Recent practice with [a screw press](https://literaturegeek.com/made/2024/11/02/M-bookbeetle-screw-letterpress-intensive-training.html), [building a tabletop press](https://literaturegeek.com/made/2024/10/26/M-provisional-letterpress-building.html), [book binding](https://literaturegeek.com/made/2024/10/25/M-bookbinding-hobonichi-techno-notebook.html), and my intensive typesetting and Vandercook press training work (not documented in a blog post yet, but skim the media tab of my [Bluesky profile](https://bsky.app/profile/literaturegeek.bsky.social) for lots of photo-enriched goodies).
+
+# About me
+I'm a printer, textual scholar, librarian, and digital humanist whose experience includes operating both personal and library letterpresses, as well as participation in the [longstanding digital humanities makerspace](https://scholarslab.org/makerspace) that's part of the DH center I direct (the [Scholars' Lab](https://scholarslab.org) at the University of Virginia); the RBS BookLab and CalRBS Feminist Bibliography courses; the inaugural BookBeetle "Alphabuzzzz" public-teaching cohort; and training toward Vandercook certification with the Virginia Center for the Book Arts printshop. I'm particularly interested in hands-on printing practice; feminist, queer, trans, and anti-racist book history; overlaps between book arts and experimental/digital humanities research; and inclusive, accessible, public, joyful book arts play and practice.
