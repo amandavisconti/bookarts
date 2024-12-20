@@ -25,3 +25,14 @@ Until I've a moment to develop this site further, I've created the following res
 
 # About me
 I'm a printer, textual scholar, librarian, and digital humanist whose experience includes operating both personal and library letterpresses, as well as participation in the [longstanding digital humanities makerspace](https://scholarslab.org/makerspace) that's part of the DH center I direct (the [Scholars' Lab](https://scholarslab.org) at the University of Virginia); the RBS BookLab and CalRBS Feminist Bibliography courses; the inaugural BookBeetle "Alphabuzzzz" public-teaching cohort; and training toward Vandercook certification with the Virginia Center for the Book Arts printshop. I'm particularly interested in hands-on printing practice; feminist, queer, trans, and anti-racist book history; overlaps between book arts and experimental/digital humanities research; and inclusive, accessible, public, joyful book arts play and practice.
+
+<!--
+What is this called?
+- puns (impression/impressive, justify, types, sorts, computer terms; on books, printing, text, code, presses, printshop, studio)
+- bakery theme
+- pets!
+- slabby words
+- digital, experimental riffs
+- touches on themes: access, multilingual, creative, low-barrier, experimental, DH connections, makerspace connections, DIY, DIY scholcomm...
+- RCC suggested "Pulp Friction"
+-->
