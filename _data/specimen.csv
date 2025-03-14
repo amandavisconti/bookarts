@@ -1,21 +1,22 @@
-Status,Kind,Description,Material,Size,Typehigh,Upper-case,Lower-case,Punctuation,Numbers,2+per-char,Missing-chars,Notes,Block-photo-flipped,Print-photo
-SLab,Wood type,"Unnamed sans serif (""Hamilton Slab Black Condensed"")",Wood,"10 pica / 10 line; 1-5/8 inches"" tall",TBD,yes,no,yes,yes,yes,"6, 9","* Inexpensive ($150), unlovely, don't have to be precious with it.
+ID,Status,Category,Sub-category,Description,Material,Size,Typehigh,Upper-case,Lower-case,Punctuation,Numbers,Multiple-per-char,Missing-chars,Notes,Block-photo-flipped,alt-block-photo-flipped,Print-photo,alt-print-photo
+1,SLab,Type,Wood type,"Unnamed sans serif (""Hamilton Slab Black Condensed"")",Wood,"10 pica / 10 line; 1-5/8 inches"" tall",✅ (?),yes,no,yes,yes,yes,"6, 9","* Inexpensive ($150), unlovely, don't have to be precious with it.
 * 150 characters
-* ""Looks similar to Rockwell Extra Bold Condensed but some characteristics aren't a match. Possibly not an official specimen. Accordingly, IDing as Slab Face Black Condensed but not using a specific font name.""",,
-AWV,Wood type,Unnamed sans serif,Wood,"2"" tall","TBD; ""about 15/16"" depth"" (ad) but should measure myself",yes,no,1 period,no,no,no,"* 27 characters
-",,
-AWV,Mixed type/illustration,"""Oven Fresh"" ribbon banner",Copper?,"3"" wide x 1"" tall",TBD,,,,,,,,,
-AWV,Mixed type/illustration,"""From the oven"" with frame",Lead,"8.5"" wide x 3"" tall",TBD,,,,,,,,,
-AWV,Illustration,Toaster oven metal illustration,Lead,"2"" wide x 1"" high",TBD,,,,,,,,,
-Shipping,Illustration,Sniffing hound,Lead,,TBD,,,,,,,,,
-Shipping,Mixed type/illustration,"""Information""",Lead,"2"" wide x 7/16"" tall",TBD,,,,,,,,,
-Shipping,Mixed type/illustration,"""Electrifying History""",Lead,"3"" wide x .5"" tall",TBD,,,,,,,,,
-Shipping,Illustration,Burning candle,Lead?,"1.75"" wide x 5"" tall",TBD,,,,,,,,,
-Shipping,Catchword,"""AND""",Lead,"1"" wide x 7/8"" tall",TBD,,,,,,,,,
-Shipping,Catchword,"""LOOK!!""",Copper?,"5"" wide x 7/8"" tall",TBD,,,,,,,,,
-Shipping,Metal type,Single bracket,Copper?,".5"" wide x 2"" tall",TBD,,,,,,,,,
-Shipping,Wood type,&,Wood,"5/8"" wide x 1 11/16"" tall",Yes,,,,,,,,,
-SLab,Metal type,Visual Braille,Lead?,28.5 points (see notes),Yes,yes,no,no,no,no,no,"* ""This 'visual font' was created in order to increase awareness of Braille and allow sighted people to experience Braille.""
+* ""Looks similar to Rockwell Extra Bold Condensed but some characteristics aren't a match. Possibly not an official specimen. Accordingly, IDing as Slab Face Black Condensed but not using a specific font name.""",,,,
+2,AWV,Type,Wood type,Unnamed sans serif,Wood,"2"" tall",✅ (?),yes,no,1 period,no,no,no,"* 27 characters
+",,,,
+3,"Rec'd, deciding home vs SLab need",Type,Wood type,Unnamed sans serif,Wood,"""0.55/0.71 inch""",✅ (?),no,yes,yes,no,yes,no,* 119 characters,,,,
+4,AWV,Not type,Mixed type/illustration,"""Oven Fresh"" ribbon banner",Copper?,"3"" wide x 1"" tall",✅ (?),,,,,,,,,,,
+5,AWV,Not type,Mixed type/illustration,"""From the oven"" with frame",Lead,"8.5"" wide x 3"" tall",✅ (?),,,,,,,,,,,
+6,AWV,Not type,Illustration,Toaster oven metal illustration,Lead,"2"" wide x 1"" high",✅ (?),,,,,,,,,,,
+7,AWV,Not type,Illustration,Sniffing hound,Lead,,✅ (?),,,,,,,,,,,
+8,SLab,Not type,Mixed type/illustration,"""Information""",Lead,"2"" wide x 7/16"" tall",✅ (?),,,,,,,,,,,
+9,SLab,Not type,Mixed type/illustration,"""Electrifying History""",Lead,"3"" wide x .5"" tall",✅ (?),,,,,,,,,,,
+10,AWV,Not type,Illustration,Burning candle,Lead?,"1.75"" wide x 5"" tall",✅ (?),,,,,,,,,,,
+11,AWV,Not type,Catchword or lone sort,"""AND""",Lead,"1"" wide x 7/8"" tall",✅ (?),,,,,,,,,,,
+12,SLab,Not type,Catchword or lone sort,"""LOOK!!""",Copper?,"5"" wide x 7/8"" tall",✅ (?),,,,,,,,,,,
+13,AWV,Not type,Catchword or lone sort,Single bracket,Copper?,".5"" wide x 2"" tall",✅ (?),,,,,,,,,,,
+14,AWV,Not type,Catchword or lone sort,&,Wood,"5/8"" wide x 1 11/16"" tall",✅,,,,,,,,,,,
+15,SLab,Type,Metal type,Visual Braille,Lead?,28.5 points (see notes),✅,yes,no,no,yes,no,no,"* ""This 'visual font' was created in order to increase awareness of Braille and allow sighted people to experience Braille.""
 * This version of Braille is ""basic"" or ""Grade I Braille. (""Advanced Braille uses many contractions to augment the a-z alphabet in order to make the text much more compact. Making a metal face of advanced Braille would entail a far larger character count."")
 * How to use visual Braille type (from Swamp Press type foundry website):
 -Each character has an identification mark on the shoulder, which does not print, but allows for easy setting, distribution and proofing.
@@ -23,14 +24,25 @@ SLab,Metal type,Visual Braille,Lead?,28.5 points (see notes),Yes,yes,no,no,no,no
 -Leading: the official standard for vertical height of the Braille cell is 0.4"" or 28.5 points, which for letterpress is very, very inconvenient. So I recommend using 4 pts leading and if one wants to be persnickety add in another half point.
 -Capitals: a special character denotes that the following character is capitalized. In this font ""•C•"" on the shoulder means ""Cap"".
 -Numerals: numerals are created by adding the numeral character (# on the shoulder) before the letter """" for the numeral 1, ""b"" following means 2, and so on. So ""#a#b"" indicates the numeral ""12"".
-* More info: https://www.swamppress.com/braille-unique.html",,
-SLab,Metal type,Embossing Braille,Lead?,28.5 points (see notes),Yes,yes,no,no,no,no,no,"* This version of Braille is ""basic"" or ""Grade I Braille. (""Advanced Braille uses many contractions to augment the a-z alphabet in order to make the text much more compact. Making a metal face of advanced Braille would entail a far larger character count."")
+* More info: https://www.swamppress.com/braille-unique.html",,,,
+16,SLab,Type,Metal type,Embossing Braille,Lead?,28.5 points (see notes),✅,yes,no,no,yes,no,no,"* This version of Braille is ""basic"" or ""Grade I Braille. (""Advanced Braille uses many contractions to augment the a-z alphabet in order to make the text much more compact. Making a metal face of advanced Braille would entail a far larger character count."")
 * How to use embossing Braille type (from Swamp Press type foundry website): 
 -Setting: on the shoulder of the type is the character identification in relief, and this will not emboss but aids in setting, proofing and redistribution.
 -Spacing: all printed Braille is 0.245"" wide in set, so spaces are included in my fonts. Regular 24 pt spacing can also be used.
 -Leading: the official standard for vertical height of the Braille cell is 0.4"" which is 28.5 points, which for letterpress is very inconvenient. So I recommend using 4 pts leading and if one wants to be persnickety add in another half point.
 -Capitals: a special character denotes that the following character is capitalized. In this font ""•C•"" on the shoulder means ""Cap."" Numerals: numerals are -created by adding the numeral character (# on the shoulder) before the letter ""a"" for the numeral 1, ""b"" following is 2, and so on. So ""#a#b"" indicates the numeral ""12"".
-* More info: https://www.swamppress.com/braille-embossing.html",,
-SLab,Mixed type/illustration,"""Build now: you will have nothing to regret"" & background illustration",Copper?,"4"" wide x 2"" tall",TBD,,,,,,,,,
-SLab,Mixed type/illustration,"""Building activity is justified as never before"" and background forest illustration",Copper?,"4"" wide x 2"" tall",TBD,,,,,,,,,
-SLab,Mixed type/illustration,"""Our experienced building advice is yours for the asking"" with background illustration of two suited men looking at documents",Copper?,"4"" wide x 2"" tall",TBD,,,,,,,,,
+* More info: https://www.swamppress.com/braille-embossing.html",,,,
+17,SLab,Not type,Mixed type/illustration,"""Build now: you will have nothing to regret"" & background illustration",Copper,"4"" wide x 2"" tall",✅ (?),,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",,,,
+18,SLab,Not type,Mixed type/illustration,"""Building activity is justified as never before"" and background forest illustration",Copper,"4"" wide x 2"" tall",✅ (?),,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",,,,
+19,SLab,Not type,Mixed type/illustration,"""Our experienced building advice is yours for the asking"" with background illustration of two suited men looking at documents",Copper,"4"" wide x 2"" tall",✅ (?),,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",,,,
+20,AWV,Not type,Illustration,Open trenchcoat seller,Lead?,,✅ (?),,,,,,,Has hole in center where other type can be fit (e.g. !!!),,,,
+21,AWV,Not type,Illustration,Jaunty manicule,Lead?,,✅ (?),,,,,,,"Want to look up history/name of this particular cut, as I've seen it in multiple places so it must be one of those named ones",,,,
+22,AWV,Not type,Catchword or lone sort,Jaunty exclamation mark,Lead?,,✅ (?),,,,,,,,,,,
+23,AWV,Not type,Illustration,2 loaves of bread,Lead?,,✅ (?),,,,,,,,,,,
+24,AWV,Not type,Illustration,Tiny chef,Lead?,,✅ (?),,,,,,,,,,,
+25,AWV,Not type,Catchword or lone sort,The Whopper Has a New Home,Lead?,,✅ (?),,,,,,,How could I resist this.,,,,
+26,AWV,Not type,Catchword or lone sort,It's Great,Lead?,"~5"" wide x 0.5"" tall",✅ (?),,,,,,,,,,,
+27,AWV,Not type,Catchword or lone sort,Original,Lead?,"~4"" high x 0.5"" high",✅ (?),,,,,,,,,,,
+28,AWV,Not type,Mixed type/illustration,Announcing (man with megaphone),Lead?,,✅ (?),,,,,,,,,,,
+29,AWV,Not type,Illustration,Medieval saint with spear,Copper,"""~1.5"" x 1"" thick x 4.25"" tall""",✅ (?),,,,,,,,,,,
+30,AWV,Not type,Mixed type/illustration,"""Way to go"" with thumbs up, repeated 5 times",Lead?,,✅ (?),,,,,,,,,,,
