@@ -26,6 +26,8 @@ These are things various people did or recommended; not meant to do all of these
 ## Parts
 If we need to replace, want extra (e.g. for ""quick"" ink color changes), etc.
 - Rollers: [NA Graphics](https://nagraph.com/sc/productsearch.cgi?search_field=c&p%20roller)
+- [Multiple options for rollers](https://www.briarpress.org/yellowpages/browse?t=56) via Briar Press Yellow Pages
+- [Equipment/parts Yellow Pages](https://www.briarpress.org/yellowpages/browse?t=52) at Briar Press
 
 ## Spiffing up
 
