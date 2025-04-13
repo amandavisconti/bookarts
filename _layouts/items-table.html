@@ -1,0 +1,179 @@
+---
+layout: items
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include head.html -%}
+
+<body>
+{%- include header.html -%}
+<main class="page-content" aria-label="Content">
+<div class="wrapper">
+{%- if page.title -%}
+	<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+{{ content }} <!-- if any in .md file -->
+</div> <!-- ends div wrapper early, so doesn't apply to table -->
+
+<!-- specimen display time! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<div class="specimen-items">
+{% assign sorted_specimen = site.data.specimen %}
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>Presses</h2><h3>(most impressive, indeed)</h3>
+<table>
+	<tr>
+		<th>Description</th>
+		<th>Material</th>
+		<th>Notes</th>
+		<th>Photo</th>
+		<th>ID</th>
+	</tr>
+
+{% for row in sorted_specimen %}
+	{% if row.Sub-category == "Press" %}
+	<tr>
+		<td>{{ row.Description }}</td>
+		<td>{{ row.Material }}</td>
+		<td>{{ row.Notes }}</td>
+		<td>
+			<img class="presses" src="/bookarts/assets/specimen-photos/presses-tools-misc-photos/{{ row.ID }}.png" alt="photo of letterpress press described as '{{ row.Description }}' width="200" height="200" >
+		</td>	
+		<td>{{ row.ID }}</td>
+	{% endif %}
+	</tr>
+{% endfor %}
+</table>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<h2>Type</h2><h3> for all sorts</h3>
+
+<table>
+	<tr>
+		<th>Category & Font</th>
+    	<th>Type details</th>
+    	<th>Typehigh</th>
+		<th>Upper-case</th>
+		<th>Lower-case</th>
+		<th>Punctuation</th>
+		<th>Numbers</th>
+		<th>Multiple sorts per character</th>
+		<th>Missing characters</th>
+		<th>Notes</th>
+		<th>Block photo</th>
+		<th>Print photo</th>
+		<th>ID</th>
+	</tr>
+
+{% for row in sorted_specimen %}
+	{% if row.Category == "Type" %}
+	<tr>
+		<td>{{ row.Material }} type: {{ row.Description }}</td>
+		<td>
+			{% if row.Point-size == nil %}
+			{% else %}
+				{% if row.Point-size != "TBD" %}
+					{{ row.Point-size }}pts
+				{% endif %}
+				{% if row.Style != empty %}{{ row.Style }}
+				{% endif %}
+			{% endif %}
+		</td>
+		<td>{{ row.Typehigh }}</td>
+		<td>{{ row.Upper-case }}</td>
+		<td>{{ row.Lower-case }}</td>
+		<td>{{ row.Punctuation }}</td>
+		<td>{{ row.Numbers }}</td>
+		<td>{{ row.Multiple-per-char }}</td>
+		<td>{{ row.Missing-chars }}</td>	
+		<td class="smaller">{{ row.Notes }}</td>
+		<td>
+			<img src="/bookarts/assets/specimen-photos/type-photo/{{ row.ID }}-type.png" alt="photo of letterpress type described as '{{ row.Description }}' " >
+		</td>
+		<td>
+			<img src="/bookarts/assets/specimen-photos/type-specimen-photo/{{ row.ID }}-type-specimen.png" alt="photo of a print made from letterpress type described as '{{ row.Description }}' " width="200" height="200">
+		</td>	
+		<td>{{ row.ID }}</td>
+	{% endif %}	
+	</tr>
+{% endfor %}
+</table> 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<h2>Blocks & cuts</h2><h3>(but not a fistfight)</h3>
+<table>
+	<tr>
+		<th>Description</th>
+		<th>Material</th>
+		<th>Dimensions</th>
+    	<th>Typehigh</th>
+		<th>Collection(s)</th>
+		<th>Notes</th>
+		<th>Block photo (flipped)</th>
+		<th>Print photo</th>
+		<th>ID</th>
+	</tr>
+
+{% for row in sorted_specimen %}
+	{% if row.Sub-category == "Catchword or lone sort" or row.Sub-category == "Mixed type/illustration" or row.Sub-category == "Illustration" %}
+	<tr>
+		<td>{{ row.Description }}</td>
+		<td>{{ row.Material }}</td>
+		<td>{{ row.Dimensions }}</td>
+		<td>{{ row.Typehigh }}</td>
+		<td>{{ row.Tags }}</td>
+		<td class="smaller">{{ row.Notes }}</td>
+		<td>
+			<img src="/bookarts/assets/specimen-photos/block-flipped-photo/{{ row.ID }}-block.png" alt="photo of letterpress block described as '{{ row.Description }}' " >
+		</td>
+		<td>
+			<img src="/bookarts/assets/specimen-photos/block-print-photo/{{ row.ID }}-block-print.png" alt="photo of a print made from a letterpress block described as '{{ row.Description }}' ">
+		</td>	
+		<td>{{ row.ID }}</td>
+	{% endif %}	
+	</tr>
+
+{% endfor %}
+</table> 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<h2>Tools, etc.</h2><h3>(non-derogatory)</h3>
+<table>
+	<tr>
+		<th>Description</th>
+		<th>Material</th>
+		<th>Dimensions</th>
+		<th>Notes</th>
+		<th>Photo</th>
+		<th>ID</th>
+	</tr>
+
+{% for row in sorted_specimen %}
+	{% if row.Sub-category == "Tools" or row.Sub-category == "Spacing" %}
+	<tr>
+		<td>{{ row.Description }}</td>
+		<td>{{ row.Material }}</td>
+		<td>{{ row.Dimensions }}</td>
+		<td class="smaller">{{ row.Notes }}</td>
+		<td>
+			<img src="/bookarts/assets/specimen-photos/presses-tools-misc-photos/{{ row.ID }}.png" alt="photo of letterpress item described as '{{ row.Description }}' " >
+		</td>
+		<td>{{ row.ID }}</td>
+	{% endif %}	
+	</tr>
+
+{% endfor %}
+</table> 
+
+</div>
+<!-- ends specimen display time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+</main>
+{%- include footer.html -%}
+</body>
+</html>
