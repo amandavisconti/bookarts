@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "C&P Pilot Press Restoration"
+title: "C&P Restoration"
 ---
 
 We may have a paper copy of this in the donation boxes, but see online PDF for [C&P official instructions and parts list](https://drukwerkindemarge.org/download/documentatie/cp-pilot-manual.pdf).

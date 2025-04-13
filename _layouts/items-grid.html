@@ -1,0 +1,107 @@
+---
+layout: items
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include head.html -%}
+
+<body>
+{%- include header.html -%}
+<main class="page-content" aria-label="Content">
+<div class="wrapper">
+{%- if page.title -%}
+	<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+{{ content }} <!-- if any in .md file -->
+</div> <!-- ends div wrapper early, so doesn't apply to table -->
+
+<!-- specimen display time! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<div class="specimen-items">
+{% assign sorted_specimen = site.data.specimen %}
+
+<ul>
+{% for row in sorted_specimen %}
+
+	<li>
+		<ul>
+			<li>Owner & ID: {{ row.ID }}</li>
+			<li>{{ row.Sub-category }}</li>
+			<li><h2>{{ row.Description }}</h2></li>
+			{% if row.Material != empty %}
+				<li>Made of: {{ row.Material }}</li>
+			{% endif %}	
+			{% if row.Size != empty %}
+				<li><em>{{ row.Size }}</em></li>
+			{% endif %}
+
+			{% if row.Category == "Type" %}
+				<ul>
+					<p>Type-specific features...</p>
+						<ul>
+							<li>Type high: {{ row.Typehigh }}</li>
+							<li>Uppercase: 
+								{% if row.Upper-case == "yes" %}✅
+								{% elsif row.Upper-case == "no" %}❌
+								{% endif %}							
+							</li>
+							<li>Lowercase: 
+								{% if row.Lower-case == "yes" %}✅
+								{% elsif row.Lower-case == "no" %}❌
+								{% endif %}							
+							</li>
+							<li>Punctuation: 
+								{% if row.Punctuation == "yes" %}✅
+								{% elsif row.Punctuation == "no" %}❌
+								{% else %}{{ row.Punctuation }}
+								{% endif %}							
+							</li>
+							<li>Numbers: 
+								{% if row.Numbers == "yes" %}✅
+								{% elsif row.Numbers == "no" %}❌
+								{% endif %}							
+							</li>
+							<li>2+ sorts per character: 
+								{% if row.Multiple-per-char == "yes" %}✅
+								{% elsif row.Multiple-per-char == "no" %}❌
+								{% endif %}							
+							</li>
+							<li>Missing characters: 
+								{% if row.Missing-chars == "yes" %}✅
+								{% elsif row.Missing-chars == "no" %}❌
+								{% else %}{{ row.Missing-chars }}
+								{% endif %}							
+							</li>
+						</ul>
+				</ul>
+			{% endif %}
+
+			{% if row.Notes != empty %}
+				<li><p>Notes: {{ row.Notes }}</p></li>
+			{% endif %}
+			
+			{% if row.Sub-category == "Press" %}
+				<li><img src="/bookarts/assets/specimen-photos/presses-tools-misc-photos/{{ row.ID }}.png" alt="photo of letterpress press described as '{{ row.Description }}' "></li>
+			{% elsif row.Sub-category == "Type" %}
+				<li><img src="/bookarts/assets/specimen-photos/type-photo/{{ row.ID }}-type.png" alt="photo of letterpress type described as '{{ row.Description }}' "></li>
+				<li><img src="/bookarts/assets/specimen-photos/type-specimen-photo/{{ row.ID }}-type-specimen.png" alt="photo of letterpress type described as '{{ row.Description }}' "></li>
+			{% elsif row.Sub-category == "Catchword or lone sort" or row.Sub-category == "Mixed type/illustration" or row.Sub-category == "Illustration" %}
+				<li><img src="/bookarts/assets/specimen-photos/block-photo-flipped/{{ row.ID }}-block.png" alt="photo of letterpress {{ row.Sub-category }} described as '{{ row.Description }}' "></li>
+				<li><img src="/bookarts/assets/specimen-photos/block-print-photo/{{ row.ID }}-block-print.png" alt="photo of a print made from letterpress block described as '{{ row.Description }}' "></li>
+			{% elsif row.Sub-category == "Tools" or row.Sub-category == "Spacing" %}
+				<li><img src="/bookarts/assets/specimen-photos/presses-tools-misc-photos/{{ row.ID }}.png" alt="photo of letterpress tool or spacing described as '{{ row.Description }}' "></li>
+			{% endif %}
+
+		</ul>
+	</li>
+
+{% endfor %} <!-- closes initial "for row" looping through csv -->
+</ul> 
+
+</div>
+<!-- ends specimen display time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+</main>
+{%- include footer.html -%}
+</body>
+</html>
