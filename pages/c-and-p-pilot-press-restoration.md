@@ -5,6 +5,16 @@ title: "C&P Restoration"
 
 We may have a paper copy of this in the donation boxes, but see online PDF for [C&P official instructions and parts list](https://drukwerkindemarge.org/download/documentatie/cp-pilot-manual.pdf).
 
+# Followup research
+These notes were taken after Shane did an initial assessment of the press and what supplies we might need.
+
+* [This thread](https://www.briarpress.org/32100) has some back and forth on what tools to use if ink disc is lumpy, but my main takeaway is it says to try printing first as unevenness may not impact the print unless it's bad.
+
+* Cabinet improvements:
+  * "Sand it to the degree you wish and coat it with boiled linseed oil. Perhaps also a second coat well rubbed down. Then when that is well dry, a coat of furniture wax or oil if you wish. Well rubbed down"
+
+# Initial research
+
 ## Optional: teardown & rebuild
 Maybe don't do this (or at least do cleaning without tear down first, get press working at all and use it a bit, so understand how parts work, before deciding to attempt a teardown? "If you haven’t done it before, DON’T! Don’t let the size of it fool you, simple things like turning a side arm end for end or side for side or transposing a left for right side arm can complicate things, such as throwing the impression off. Forget about the beauty of the press, it’s only skin deep.")
 - Take photos before disassembly so know where stuff goes
@@ -43,6 +53,8 @@ Unsure if we'd want this in any event, but recording info since I came across it
 - 
 
 # Citations
-* https://www.briarpress.org/64672
-* https://www.briarpress.org/33316
-* https://www.briarpress.org/38402
+* https://www.briarpress.org/64672  
+* https://www.briarpress.org/33316  
+* https://www.briarpress.org/38402  
+* https://www.briarpress.org/32100  
+* https://www.briarpress.org/41222  
