@@ -1,213 +1,240 @@
-Description,ID,Labeled?,Current-Location,DIY?,Category,Sub-category,Material,Style,Point-size,Dimensions,Typehigh,Upper-case,Lower-case,Punctuation,Numbers,Abnormal-pack-size,1-of-multiple-packs-exact-style-size,Multiple-per-char,Missing-chars,More-typefamily,Donator,Donation-notes,Notes,Image-files-in-directory-yet,Block-print-file-in-directory,Block-photo-flipped,Print-photo,Tags
-Jaunty manicule #2,awv-001,yes,AWV,"Yes, AWV",Not type,Illustration,Wood (maple),,,,✅,,,,,,,,,,,"Designed using image of historical jaunty manicule found online, and lasercut by Amanda Wyatt Visconti, 2/3/2025, using type-high maple. Note we also have a lead version of this same manicule in our collections.",,Yes,Yes,,,Manicule-ish
-"Walsh ""unicorn"" line drawing",awv-002,yes,AWV,"Yes, AWV",Not type,Illustration,Wood (maple),,,,✅,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/3/2025, using type-high maple",,,Yes,,,Animals
-"""Printed by a trans printer!"" manicule",awv-003,yes,AWV,"Yes, AWV",Not type,Mixed type/illustration,Wood (maple),,,,✅,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/3/2025, using type-high maple. Uses Erin Moore's ""Vision"" type on the word ""trans"", and a historical manicule image found online",,Yes,Yes,,,"Manicule-ish, LGBTQIA+"
-"Unnamed, wood sans serif #1",awv-004,yes,AWV,,Type,Wood type,Wood,Regular,TBD,"2"" tall",✅ (?),yes,no,1 period,no,no,no,no,no,no,,"* 27 characters
-",,Yes,,,,N/a
-"Unnamed, wood sans serif #2",awv-005,yes,AWV,,Type,Wood type,Wood,Regular,TBD,"""0.55/0.71 inch""",✅ (?),no,yes,yes,no,no,no,yes,no,no,,* 119 characters,,Yes,,,,N/a
-"""Oven Fresh"" ribbon banner",awv-006,yes,AWV,,Not type,Mixed type/illustration,Copper?,,,"3"" wide x 1"" tall",✅ (?),,,,,,,,,,,,,Yes,,,,Baking/cooking
-"""From the oven"" with frame",awv-007,yes,AWV,,Not type,Mixed type/illustration,Lead,,,"8.5"" wide x 3"" tall",✅ (?),,,,,,,,,,,,,Yes,,,,Baking/cooking
-Toaster oven,awv-008,yes,AWV,,Not type,Illustration,Lead,,,"2"" wide x 1"" high",✅ (?),,,,,,,,,,,,,Yes,,,,Baking/cooking
-Sniffing hound,awv-009,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,,"Dog, Animals"
-"""AND""",awv-010,yes,AWV,,Not type,Catchword or lone sort,Lead,,,"1"" wide x 7/8"" tall",✅ (?),,,,,,,,,,,,,Yes,,,,N/a
-&,awv-011,yes,AWV,,Not type,Catchword or lone sort,Wood,,,"5/8"" wide x 1 11/16"" tall",✅,,,,,,,,,,,,,Yes,,,,
-Jaunty manicule #1,awv-012,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,"Want to look up history/name of this particular cut, as I've seen it in multiple places so it must be one of those named ones",Yes,,,,Manicule-ish
-Jaunty exclamation mark,awv-013,yes,AWV,,Not type,Catchword or lone sort,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,,
-2 loaves of bread,awv-014,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,,Baking/cooking
-Tiny chef,awv-015,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,,"Baking/cooking, Enthusiast"
-"""The Whopper Has a New Home""",awv-016,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,How could I resist this.,,Yes,Yes,,,"Weird/funny, Baking/cooking"
-"""It's Great""",awv-017,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,"~5"" wide x 0.5"" tall",✅ (?),,,,,,,,,,,,,Yes,,,,Enthusiast
-"""Original""",awv-018,no,AWV,,Not type,Catchword or lone sort,Lead?,,,"~4"" high x 0.5"" high",✅ (?),,,,,,,,,,,,,Yes,,,,
-"""Announcing"" (man with megaphone)",awv-137,yes,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,,Manicule-ish
-Fancydog (long-legged Maple; dog) #2,awv-019,yes,AWV,"Yes, AWV",Not type,Illustration,Wood (maple),,,,✅,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/15/2025, using type-high maple. I cut the imagefrom craft foam with safety scissors, printed with a BookBeetle press in Fall 2024; resulting print digitized; lasercut into wood for further printing.",,Yes,,,,"Dog, Animals"
-"""Made by a trans printer!"" catchword",awv-020,yes,AWV,"Yes, AWV",Not type,Catchword or lone sort,Wood (maple),,,,✅,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/15/2025, using type-high maple.",,Yes,Yes,,"printed 2/2025, need to add here","Manicule-ish, LGBTQIA+"
-"""Zine Bakery"" with zine icon",awv-021,yes,AWV,"Yes, AWV",Not type,Mixed type/illustration,Wood (maple),,,,✅,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/15/2025, using type-high maple.",,Yes,Yes,,"printed 2/2025, need to add here",Baking/cooking
-"Partial, unnamed, wood sans serif, #3",awv-022,yes,AWV,,Type,Wood type,Wood,Regular,TBD,"2.5"" tall",✅,no,yes,no,no,no,no,yes,yes,no,,"* 30 characters
+Description,ID,Labeled?,Current-Location,DIY?,Category,Sub-category,Material,Style,Point-size,Dimensions,Typehigh,Upper-case,Lower-case,Punctuation,Numbers,Abnormal-pack-size,1-of-multiple-packs-exact-style-size,Multiple-per-char,Missing-chars,More-typefamily,Donator,Donation-notes,Notes,Block-print-file-in-directory,Block-photo-flipped,Print-photo,Tags
+Pepsi bottles,awv-155,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Person in dress & person in cowboy attire awarding each other,awv-156,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
+"""Don't""",awv-157,no,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Unusual catchword
+"""Special"" (#1 of 2 with same word)",awv-158,no,AWV,,Not type,Catchword or lone sort,Copper?,,,,✅ (?),,,,,,,,,,,,"Brush caps italic, rough banner background",Yes,,,Enthusiast
+"""Special"" (#2 of 2 with same word)",awv-200,no,AWV,,Not type,Catchword or lone sort,Copper?,,,,✅ (?),,,,,,,,,,,,Bordered,Yes,,,Enthusiast
+"""Look""",awv-201,no,AWV,,Not type,Catchword or lone sort,Copper?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Enthusiast
+"""Enjoy Pepsi either way""",awv-154,no,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Baking/cooking, LGBTQIA+"
+Jaunty manicule #2,awv-001,yes,AWV,"Yes, AWV",Not type,Illustration,Wood (maple),,,,✅,,,,,,,,,,,,"Designed using image of historical jaunty manicule found online, and lasercut by Amanda Wyatt Visconti, 2/3/2025, using type-high maple. Note we also have a lead version of this same manicule in our collections.",Yes,,,Manicule-ish
+"Walsh ""unicorn"" line drawing",awv-002,yes,AWV,"Yes, AWV",Not type,Illustration,Wood (maple),,,,✅,,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/3/2025, using type-high maple",Yes,,,Animals
+"""Benjamin Franklin's print shop""",awv-149,,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Printing/book history
+Fish swimming with book in mouth,awv-150,,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,"Pairs well with awv-113/""'Ex Libris' person astride fish""",Yes,,,Animals
+"""Poison"" skull & crossbones",awv-145,,AWV,,Not type,Mixed type/illustration,Lead?,,,"0.5""",✅ (?),,,,,,,,,,,,,Yes,,,Weird/funny
+"""Sugar""/""Flour""/""Tea""/""Coffee""/""Cocoa""",awv-147,,AWV,,Not type,Catchword or lone sort,Lead?,,,"3"" wide x 5.25"" tall",✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+"""The Spirit of America""",awv-148,,AWV,,Not type,Catchword or lone sort,Lead?,Horizontal striping,,"7 1/8"" wide x 3 1/8"" tall",✅,,,,,,,,,,,,,Yes,,,Unusual catchword
+"Headless person holding head in hand (""St. Ciris"")",awv-146,,AWV,,Not type,Mixed type/illustration,Copper?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Weird/funny
+Human head cross-section,awv-142,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Humanities
+"Large ""Z"" (solid)",awv-143,,AWV,,Not type,Catchword or lone sort,Wood,,,"~3.5"" tall x 2.5"" wide",✅ (?),,,,,,,,,,,,,Yes,,,Zines/ZB
+"Large ""Z"" (outline)",awv-144,,AWV,,Not type,Catchword or lone sort,Wood,,,"~3.5"" tall x 2.5"" wide",✅ (?),,,,,,,,,,,,,Yes,,,Zines/ZB
+"""Printed by a trans printer!"" manicule",awv-003,yes,AWV,"Yes, AWV",Not type,Mixed type/illustration,Wood (maple),,,,✅,,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/3/2025, using type-high maple. Uses Erin Moore's ""Vision"" type on the word ""trans"", and a historical manicule image found online",Yes,,,"Manicule-ish, LGBTQIA+"
+"Unnamed, wood sans serif #1",awv-004,yes,AWV,,Type,Wood type,Wood,Regular,TBD,"2"" tall",✅ (?),yes,no,1 period,no,no,no,no,no,no,,,"* 27 characters
+",Yes,,,N/a
+"Unnamed, wood sans serif #2",awv-005,yes,AWV,,Type,Wood type,Wood,Regular,TBD,"""0.55/0.71 inch""",✅ (?),no,yes,yes,no,no,no,yes,no,no,,,* 119 characters,Yes,,,N/a
+"""Oven Fresh"" ribbon banner",awv-006,yes,AWV,,Not type,Mixed type/illustration,Copper?,,,"3"" wide x 1"" tall",✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+"""From the oven"" with frame",awv-007,yes,AWV,,Not type,Mixed type/illustration,Lead,,,"8.5"" wide x 3"" tall",✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Toaster oven,awv-008,yes,AWV,,Not type,Illustration,Lead,,,"2"" wide x 1"" high",✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Sniffing hound,awv-009,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals"
+"""AND""",awv-010,yes,AWV,,Not type,Catchword or lone sort,Lead,,,"1"" wide x 7/8"" tall",✅ (?),,,,,,,,,,,,,Yes,,,N/a
+&,awv-011,yes,AWV,,Not type,Catchword or lone sort,Wood,,,"5/8"" wide x 1 11/16"" tall",✅,,,,,,,,,,,,,Yes,,,
+Jaunty manicule #1,awv-012,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,"Want to look up history/name of this particular cut, as I've seen it in multiple places so it must be one of those named ones",Yes,,,Manicule-ish
+Jaunty exclamation mark,awv-013,yes,AWV,,Not type,Catchword or lone sort,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,
+2 loaves of bread,awv-014,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Tiny chef,awv-015,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Baking/cooking, Enthusiast"
+"""The Whopper Has a New Home""",awv-016,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,,How could I resist this.,Yes,,,"Weird/funny, Baking/cooking"
+"""It's Great""",awv-017,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,"~5"" wide x 0.5"" tall",✅ (?),,,,,,,,,,,,,Yes,,,Enthusiast
+"""Original""",awv-018,no,AWV,,Not type,Catchword or lone sort,Lead?,,,"~4"" high x 0.5"" high",✅ (?),,,,,,,,,,,,,Yes,,,
+Fancydog (long-legged Maple; dog) #2,awv-019,yes,AWV,"Yes, AWV",Not type,Illustration,Wood (maple),,,,✅,,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/15/2025, using type-high maple. I cut the imagefrom craft foam with safety scissors, printed with a BookBeetle press in Fall 2024; resulting print digitized; lasercut into wood for further printing.",Yes,,,"Dog, Animals"
+"""Made by a trans printer!"" catchword",awv-020,yes,AWV,"Yes, AWV",Not type,Catchword or lone sort,Wood (maple),,,,✅,,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/15/2025, using type-high maple.",Yes,,"printed 2/2025, need to add here","Manicule-ish, LGBTQIA+"
+"""Zine Bakery"" with zine icon",awv-021,yes,AWV,"Yes, AWV",Not type,Mixed type/illustration,Wood (maple),,,,✅,,,,,,,,,,,,"Designed and lasercut by Amanda Wyatt Visconti, 2/15/2025, using type-high maple.",Yes,,"printed 2/2025, need to add here",Baking/cooking
+"Partial, unnamed, wood sans serif, #3",awv-022,yes,AWV,,Type,Wood type,Wood,Regular,TBD,"2.5"" tall",✅,no,yes,no,no,no,no,yes,yes,no,,,"* 30 characters
 * Partial alphabet, with some characters in multiples
-* Included characters are: aadcceffhllnnooorrstttuuvvvwwx",,Yes,,,,N/a
-"Unnamed, wood serif, #1",awv-023,yes,AWV,,Type,Wood type,Wood,Regular,TBD,8 line,✅,yes,no,yes,no,no,no,yes,no,no,,"* Seller label was ""Letterpress Hamilton Wood Type - 8 Line - N45""
+* Included characters are: aadcceffhllnnooorrstttuuvvvwwx",Yes,,,N/a
+"Unnamed, wood serif, #1",awv-023,yes,AWV,,Type,Wood type,Wood,Regular,TBD,8 line,✅,yes,no,yes,no,no,no,yes,no,no,,,"* Seller label was ""Letterpress Hamilton Wood Type - 8 Line - N45""
 * Includes multiple wood spaces, 2 '' smart-left, 2 ' smart-right, 1 comman, two dashes, two periods, exclamation mark, question mark, ampersand
-* Alpha haracters: aaabbccddeeeeffgghhiiijjkklllmmnnnoooppqrrrsssstttuuuvvwwxyyz",,Yes,,,,N/a
-"""BELL TELEPHONE"" with sound wave",awv-024,yes,AWV,,Not type,Mixed type/illustration,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,,Retro tech
-"""A real American boy!"" with boy image",awv-025,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,"Vibes: trans, androgynous, queer, FTM, FTN.",,,,,LGBTQIA+
-"""An Honorary Fellow of""",awv-026,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,"Vibes: trans, gay, FTM.",,,,,LGBTQIA+
-"""AV"" monogram with long line",awv-027,yes,AWV,,Not type,Catchword or lone sort,Copper?,,,,✅ (?),,,,,,,,,,,,,,,,,N/a
-"""Camp"" in word bubble",awv-028,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,LGBTQIA+
-"""CAUTION""",awv-029,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,N/a
-"""Curses!"" man",awv-030,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Weird/funny
-"""Different, yes—and how they like it!"" with bread",awv-031,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"Baking/cooking, Enthusiast"
-"""Do you want bread of quality?"" man",awv-032,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,Yes,,"printed 2/24/2025, need to add here",Baking/cooking
-"""DON'T MISS""",awv-033,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,"Vibes: FTM, FTN, trans, agender, non-binary, anti-misgendering.",,,,,LGBTQIA+
-"""EXTRA"" on banner",awv-034,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,Enthusiast
-"""HEAVENLY"" two-color split catchword",awv-035,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,
-"""HERE'S YOUR""",awv-036,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,
-"""HOT ROLLS""",awv-037,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,Baking/cooking
-"""I'm a meat man..."" etc.",awv-038,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,"LGBTQIA+, Weird/funny"
-"""Let's get acquainted"" form with 2 prompt fields and 2 dogs sniffing each other",awv-039,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,"printed 2/24/2025, need to add here","Dog, Animals, Weird/funny"
-"""LITERARY""",awv-040,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,Humanities
-"""Markdown!""",awv-041,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,"(listed as ""Vintage 1970's Suffolk VA"")",Yes,,,,DH
-"""nature's best"" (#1)",awv-042,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,Vibes: trans. See also the other version of this catchword in our collections.,Yes,,,,LGBTQIA+
-"""nature's best"" (#2)",awv-043,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,Vibes: trans. See also the other version of this catchword in our collections.,,,,,LGBTQIA+
-"""nearly everybody likes""",awv-044,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,
-"""Pink Frolic""",awv-045,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,"Vibes: queer, subversive masculinity, subversive femininity.",Yes,,,,LGBTQIA+
-"""PROOF""",awv-046,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,Vibes: trans.,,,,,"Baking/cooking, Enthusiast"
-"""something special...""",awv-047,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,Enthusiast
-"""the birth of a legend""",awv-048,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,Enthusiast
-"""The way to look at it"" comic about ""persecuted peoples"", ""shucks he's not a burden he's my brother""",awv-049,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,"(listed as ""Vintage 1970's Suffolk VA"")",Yes,Yes,,"printed 2/24/2025, need to add here","Humanities, Justice"
-"""Way to go"" with thumbs up, repeated 5 times",awv-050,yes,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,,Enthusiast
-"""WE BEG TO ANNOUNCE"" with politely announcing man",awv-051,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Manicule-ish
-"""Your Choice""",awv-052,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,LGBTQIA+
-Dachshund (long-haired; dog),awv-053,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"Dog, Animals"
-2 carytids,awv-054,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"Humanities, Abstract"
-2 cowboys riding horses,awv-055,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"LGBTQIA+, Animals"
-2 knights on a horse,awv-056,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,"LGBTQIA+, Animals"
-Queer buggy (2 men in carriage),awv-057,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,Yes,,"printed 2/24/2025, need to add here","LGBTQIA+, Animals"
-3 exclamation marks (loose/separate; same typeface/size),awv-058,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,,Enthusiast
-Abacus,awv-059,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Retro tech
-Anatomy muscle chart,awv-060,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,
-Angry man under framed area,awv-061,yes,AWV,,Not type,Illustration,Copper,,,,✅,,,,,,,,,,,,"Angry(?) man with hair standing on end, fists and foot out as if throwing tantrum, under framed area (not mortised)",Yes,Yes,,"printed 2/24/2025, need to add here",Manicule-ish
-Art deco corners,awv-062,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,,Abstract
-Blindfolded Justice with scales,awv-063,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,,Justice
-Border collie (dog),awv-064,yes,AWV,,Not type,Illustration,Lead,,,"2"" x 2""",✅ (?),,,,,,,,,,,,,,,,,"Dog, Animals"
-Burning candle,awv-065,yes,AWV,,Not type,Illustration,Lead?,,,"1.75"" wide x 5"" tall",✅ (?),,,,,,,,,,,,,,,,,
-Dragon/griffin,awv-066,yes,Purchased/shipping,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,,,,,,Animals
-Fans & cheerleaders celebrating,awv-067,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Enthusiast
-Girl munching on slice of bread,awv-068,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Baking/cooking
-Greyhound #1,awv-069,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"Dog, Animals"
-Happy woman,awv-070,yes,Lost? (see notes),,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,Lost? (may have thrown out in shipping packaging of other cuts bc very small; or may be somewhere in AWV house),,,,,Enthusiast
-Historical person carrying tea tray,awv-071,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,"Vibes: trans, androgynous, queer, FTM, FTN.",,Yes,,"printed 2/24/2025, need to add here","LGBTQIA+, Humanities, Baking/cooking"
-Large clock dial face,awv-072,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,Missing one numeral (7?). Are all numerals removable?,,,,,Retro tech
-Man jumping for joy,awv-073,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Enthusiast
-Androgynous saint with spear,awv-074,yes,AWV,,Not type,Illustration,Copper,,,"""~1.5"" x 1"" thick x 4.25"" tall""",✅ (?),,,,,,,,,,,,,,Yes,,"printed 2/24/2025, need to add here","LGBTQIA+, Humanities"
-Medieval woman holding basket,awv-075,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,Unclear if basket holds bread or something else.,,Yes,,"printed 2/24/2025, need to add here","Humanities, Baking/cooking"
-Multiple tiny gesticulating men,awv-076,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,,"Enthusiast, Manicule-ish"
-Fishfaced man holding frame below him,awv-077,yes,AWV,,Not type,Illustration,Copper,,,,✅,,,,,,,,,,,,"Man has round face, eyes, open mouth (fishy expression, not actually fish-looking) and is leaning out a window, holding a sign that hangs below him (non-mortised)",,Yes,,"printed 2/24/2025, need to add here",Manicule-ish
-Open trenchcoat seller (mortised!),awv-078,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,Has hole in center where other type can be fit (e.g. !!!) = mortised,,,,,"Manicule-ish, Weird/funny"
-Person beating their chest,awv-079,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,"Vibes: FTM, FTN, trans, chest binding, top surgery.",,,,,LGBTQIA+
-Pouting baby (photorealistic),awv-080,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,Weird/funny
-Printers' ruler (metal),awv-081,yes,AWV,,Not type,Tools,Steel,,,,,,,,,,,,,,,,,,n/a,,,Printing/book history
-Rose on stem with leaves,awv-082,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,For bread & roses prints,,,,,,Plant
-Shaking hands,awv-083,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Manicule-ish
-"""Sic Semper Tyrannis"" (motto of the state of Virginia)",awv-084,yes,AWV,,Not type,Illustration,,,,"2"" diameter disc",❌,,,,,,,,,,,Unmounted.,,,,,,Justice
-Single bracket,awv-085,yes,AWV,,Not type,Catchword or lone sort,Copper?,,,".5"" wide x 2"" tall",✅ (?),,,,,,,,,,,,,,,,,
-Tree & leaves L-shaped border,awv-086,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Plant
-Utensils arranged like rays of sunrise,awv-087,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Baking/cooking
-Woman looking through binoculars,awv-088,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,,Retro tech
-Owl,awv-089,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,"Sitting on branch, looking at viewer. Useful for UVA ""Hoo"" stuff.",,,,,Animals
-"""Cookies!"" with munching bear",awv-090,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,Baking/cooking
-"""PRINTING""",awv-091,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,Printing/book history
-Mortised frame and lightning bolt,awv-092,yes,Purchased/shipping,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Abstract
-"""Remember when""",awv-093,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,
-Masquerade couple,awv-094,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,LGBTQIA+
-Two men on tandem bicycle,awv-095,yes,Purchased/shipping,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,LGBTQIA+
-Palm-reading hand,awv-096,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Manicule-ish
-"""Whoopee"" man jumping for joy",awv-097,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Enthusiast
-"""Here's the idea"" writing man",awv-098,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Weird/funny
-Franklin Gothic,awv-099,yes,AWV,,Type,Metal type,,Condensed,24,,✅,yes,yes,yes,yes,yes,no,yes,no,yes,,,ATF 163.,,,,,N/a
-"Pug sticking out tongue, looking over boy's shoulder",awv-100,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,"Dog, Animals"
-Overlapping circles border rectangle,awv-101,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Abstract
-Provisional Press,awv-102,yes,AWV,,Not type,Press,Wood,,,,,,,,,,,,,,,,"Purchased & assembled by Amanda from kit for personal home use, Fall 2024.",Yes,n/a,,no,
-"""Gutenberg Press"" ""unfair to scribes"" monk picketer",awv-103,yes,AWV,,Not type,Mixed type/illustration,,,,,✅,,,,,,,,,,,,,Yes,,,,"Printing/book history, Humanities"
-Starburst with comet tail,awv-104,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"LGBTQIA+, Abstract"
-"""Hope"" Gothic diagonal",awv-105,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,,N/a
-Globe on stand,awv-106,no,AWV,,Not type,Illustration,,,,"2"" wide x 2 5/8"" tall",✅,,,,,,,,,,,,,,,,,Humanities
-"Borders: acorns, x 5",awv-107,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,,"Abstract, Plant"
-"Borders: 2 straight lines with space between, x 16",awv-108,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,,Abstract
-"Borders: swoops, x 2",awv-109,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,,Abstract
-"Borders: square inside square, x 2",awv-110,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,,Abstract
-Man with megaphone #2,awv-111,no,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,,Manicule-ish
-"""I want a dog""",awv-112,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,,Dog
-"""Ex Libris"" person astride fish",awv-113,no,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,LGBTQIA+
-"2 pigs, having sex",awv-114,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,"Weird/funny, Animals"
-"Manicules with frills, x 2",awv-115,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"Printing/book history, Manicule-ish"
-Heraldic unicorn,awv-116,,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"LGBTQIA+, Animals"
-Little mouse looking up,awv-117,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Animals
-Dracula face,awv-118,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,LGBTQIA+
-Isle of Man flag-style three-legged thing,awv-119,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,Weird/funny
-"""is an excellent judge""",awv-120,,AWV,,Not type,Catchword or lone sort,,,,,❌,,,,,,,,,,,,,,,,,N/a
-"""critical tech! no 'innovation' serving profit over people "" Luddite",awv-121,,AWV,"Yes, by AWV",Not type,Mixed type/illustration,"Wood (unknown, likely maple)",,,,❌,"7"" wide x 5"" tall",,,,,,,,,,,"Lasercut. Somewhat burnt; print was uneven due to underside's past carving was not flat, no easy way to pack to fix. Burnt and weird-grained wood came through in print.",Yes,Yes,,,"Retro tech, DH, Humanities, Justice"
-Rat,awv-122,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,Animals
-Dragonfly and ant on foliage,awv-123,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"Animals, Plant"
-Teacup and plate,awv-124,,AWV,,Not type,Illustration,Copper,,,"5"" x 5""",❌,,,,,,,,,,,,Unmounted,,,,,Baking/cooking
-High Spot,awv-125,,Purchased/shipping,,Type,Metal type,Lead,,18,,✅,Yes,Yes,Yes,Yes,Yes,,Yes,No,,,,"Seller details said this type is from ""KelseyCo. - New England Type Foundry"". Purchased by Amanda from LetterpressThings.com 4/7/2025.",,,,,N/a
-Franklin Gothic,awv-126,,Purchased/shipping,,Type,Metal type,Lead,Bold,24,,✅,Yes,Yes,Yes,Yes,Yes,,Yes,No,yes,,,Purchased by Amanda from LetterpressThings.com 4/7/2025.,,,,,N/a
-Copperplate,awv-127,,Purchased/shipping,,Type,Metal type,Lead,,24,,✅,Yes,No,Yes,Yes,Yes,,Yes,,Yes,,,Purchased by Amanda from LetterpressThings.com 4/7/2025.,,,,,N/a
-Gothic Condensed,awv-128,,Purchased/shipping,,Type,Metal type,Lead,,24,,✅,Yes,No,Yes,No,Yes,No,Yes,No,No,,,Purchased by Amanda from LetterpressThings.com 4/8/2025.,,,,,
-Parent bear looking at child bear,awv-129,,Purchased/shipping,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,,"LGBTQIA+, Animals"
-"""Christ, what an asshole""",awv-130,,AWV,"Yes, AWV",Not type,Catchword or lone sort,Wood (maple),,,,✅,,,,,,,,,,,,"Lasercut on type-high maple wood in March or April 2025. Uses the Open Caslon font to imitate the New Yorker cartoon captioning, using the Universal New Yorker Cartoon Caption text.",Yes,,,,
-"""Oof"" manicule",awv-131,,AWV,"Yes, AWV",Not type,Mixed type/illustration,gray linoleum,,,,✅ (?),,,,,,,,,,,,Lasercut. (Don't lasercut soft/pink linoleum!),Yes,,,,
-"""Coffee + Code"" form",awv-132,,AWV,"Yes, by AWV",Not type,Mixed type/illustration,"Wood (unknown, likely maple)",,,,❌,"5"" wide x 5"" tall, with curve cut in lower-right corner",,,,,,,,,,,"Lasercut. Successful, unburnt block with good print result.",Yes,Yes,,,"Baking/cooking, DH"
-Fancydog (long-legged Maple; dog) #1,awv-133,,AWV,"Yes, by AWV",Not type,Illustration,Craft foam,,,,❌,,,,,,,,,,,,,,,,,
-Greyhound #2,awv-134,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,,"Dog, Animals"
-"""glitch"" (inverse)",awv-135,,,"Yes, AWV",,Catchword or lone sort,Wood (maple),,,,✅,,,,,,,,,,,,,Yes,,,,"DH, LGBTQIA+"
-"""Little Orphan Annie"" 3-panel comic strip",awv-136,,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,"Purchased to experiment with milling away text in speech bubbles, for replacement with second-pass registered custom text",,,,,
-"""Speaking in Faces"" by the Virginia Humanities Center for the Book: Book Arts Program",awv-book-001,,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,"Part of Letterpress Core class materials, August 2024.",,"Bound specimen book for the Virginia Humanities Center for the Book: Book Arts Program printshop's hundreds of metal and wood type cases, plus information on how to understand basic typography and difference between similar type families.",,n/a,,,
-"""Letterpress Core"" packet by Virginia Center for the Book: Book Arts Program",awv-book-002,,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,"Part of Letterpress Core class materials, August 2024.",,"25-page packet printed on cardstock, containing glossary with long definitions of various letterpress terms, explanation of letterpress point sizes, discussion of Vandercook parts, etc.",,n/a,,,
-"""Pressmen's Ink Handbook"" by H.J. Wolfe",awv-book-003,,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,Garrett Queen,,Book on chemistry behind letterpress ink creation (and mixing?); at least several decades old.,,n/a,,,
-"""Letterpress Now: A DIY Guide to New & Old Printing Methods"" by Jessica C. White",awv-book-004,,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,,,n/a,,,
-Wood type (TBD),awvloan-,no,AWV,,Type,Wood type,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,,no,N/a
-Metal type (TBD),awvloan-,no,AWV,,Type,Metal type,Lead,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,,no,N/a
-"Any other donated items, including 2 boxes, unmounted cuts",awvloan-,no,AWV,,,,,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,n/a,,no,
-Unnamed brush script (name TBD) & special italic spacing,awvloan-001,yes,SLab,,Type,Wood type,Wood,Italic,TBD,,✅ (?),Yes,Yes,,Yes,no,no,Yes (# TBD),,no,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,Comes with wood spacing because the spacing needs to be diagonal to work. ,,,,,N/a
-Em fractions (spaces?),awvloan-002,yes,SLab,,Not type,Spacing,Lead?,,10pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Spaces pack,awvloan-003,yes,SLab,,Not type,Spacing,Lead?,,30pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Spaces pack,awvloan-004,yes,SLab,,Not type,Spacing,Lead?,,36pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Quads & spaces pack,awvloan-005,yes,SLab,,Not type,Spacing,Lead?,,48pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Quads & spaces pack,awvloan-006,yes,SLab,,Not type,Spacing,Lead?,,72pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Wooden reglets,awvloan-007,yes,SLab,,Not type,Spacing,Wood,,,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 and 2/6/2025 Letterpress Friend donor shipments. ,,,n/a,,,
-Leading,awvloan-008,yes,SLab,,Not type,Spacing,Lead?,,,,,,,,,,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Wooden spacing blocks,awvloan-009,yes,SLab,,Not type,Spacing,Wood,,,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Composing stick,awvloan-010,yes,SLab,,Not type,Tools,Steel?,,,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Printers' ruler (metal),awvloan-011,yes,SLab,,Not type,Tools,Steel?,,,,,,,,,,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Printers' ruler (wood),awvloan-012,yes,SLab,,Not type,Tools,Wood,,,,,,,,,,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,n/a,,,
-Old mounting block x 6(?),awvloan-013,yes,SLab,,Not type,Tools,Wood,,,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 and 2/6/2025 Letterpress Friend donor shipments. ,"3 large, 3 medium?",,n/a,,,
-Quoin key & 3 quoins,awvloan-014,yes,SLab,,Not type,Tools,Steel?,,,,,,,,,,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,n/a,,,
-3 full-size California type drawers,awvloan-015,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,John and Nancy Johnson (VA),"From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?). Part of 14 total shelves from that donation, but 11 are listed on a separate line due to these 3's gross webs/nests that I didn't feel up to cleaning out yet, so taped over and stored in my basement. The are 11 non-gross shelves stored in my living room currently.",,,n/a,,no,
-1 smaller type drawer without dividers,awvloan-016,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,John and Nancy Johnson (VA),"From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?)",,,n/a,,no,
-Planer block #1,awvloan-017,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,John and Nancy Johnson (VA),"From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?)",For leveling type on press bed.,,n/a,,no,
-Slug cutter #1,awvloan-018,no,AWV,,Not type,Tools,Iron,,,,,,,,,,,,,,John and Nancy Johnson (VA),"* From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?).","* There is a part missing on the top: a slide that would be used to set the length of slug. You could use a good magnet to set the length. The slide on the bottom does move, but could use some cleaning and oiling. It can also be used to set the length of slug being cut.",,n/a,,no,
-Caslon,awvloan-019,yes,SLab,,Type,Metal type,Lead,,"50? 60?pt, TBD",,✅,,,,,Large,no,,no,no,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used ""American Type Foundry"" packaging when arrived",,,,,N/a
-Bond Script,awvloan-020,yes,SLab,,Type,Metal type,Lead,Regular,18pt,,✅,no,no,no,Yes,no,no,no,no,no,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used packaging when arrived, labeled in black marker",,,,,N/a
-Eccliastic,awvloan-021,yes,SLab,,Type,Metal type,Lead,TBD,TBD,,✅,Yes,Yes,TBD,TBD,No,No,TBD,no,TBD,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used ""typefounders inc. foundry type"" packaging when arrived.",,,,,N/a
-Bodoni,awvloan-022,yes,SLab,,Type,Metal type,Lead,Bold,10pt,,✅,Yes,no,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""AUG 29"".",,,,,N/a
-Bodoni,awvloan-023,yes,SLab,,Type,Metal type,Lead,Bold,10pt,,✅,no,Yes,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""AUG 28"".",,,,,N/a
-Bodoni,awvloan-024,yes,AWV,,Type,Metal type,Lead,Bold,18pt,,✅,no,Yes,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""JUL 28"".",,,,,N/a
-Coronet,awvloan-025,yes,SLab,,Type,Metal type,Lead,Bold,18pt,,✅,no,Yes,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""NOV-9"".",,,,,N/a
-Coronet,awvloan-026,yes,SLab,,Type,Metal type,Lead,Bold,18pt,,✅,Yes,no,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""NOV-8"".",,,,,N/a
-Coronet,awvloan-027,yes,SLab,,Type,Metal type,Lead,Bold,24pt,,✅,Yes,no,,no,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""OCT 15"".",,,,,N/a
-Coronet,awvloan-028,yes,SLab,,Type,Metal type,Lead,Bold,30pt,,✅,no,Yes,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""DEC 2"".",,,,,N/a
-Copperplate,awvloan-029,yes,SLab,,Type,Metal type,Lead,Heavy,12,,✅,Yes,,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""SEP 5""",,,,,N/a
-Copperplate (#1 of 2 in type style),awvloan-030,yes,SLab,,Type,Metal type,Lead,Heavy,6,,✅,Yes,,,,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""MAY-8""",,,,,N/a
-Copperplate (#2 of 2 in type style),awvloan-031,yes,SLab,,Type,Metal type,Lead,Heavy,6,,✅,Yes,,,,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""AUG 28""",,,,,N/a
-Coronet,awvloan-032,yes,SLab,,Type,Metal type,Lead,Light,36pt,,✅,no,Yes,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""MAY 1"" (difficult to read, may be incorrect).",,,,,N/a
-Copperplate (#1 of 2 in type style),awvloan-033,yes,SLab,,Type,Metal type,Lead,Light,6,,✅,Yes,,,,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""NOW 23""",,,,,N/a
-Copperplate (#2 of 2 in type style),awvloan-034,yes,SLab,,Type,Metal type,Lead,Light,6,,✅,Yes,,,,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""NOV 27""",,,,,N/a
-Rustic (#1 of 2),awvloan-035,yes,SLab,,Type,Metal type,Lead,Regular,12pt,,✅,Yes,no,,no,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived.",,,,,N/a
-Rustic (#2 of 2),awvloan-036,yes,SLab,,Type,Metal type,Lead,Regular,12pt,,✅,Yes,no,,no,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,"In unopened, never-used Detroit Type Foundry packaging when arrived.",,,,,N/a
-Bodoni,awvloan-037,yes,SLab,,Type,Metal type,Lead,Regular,20pt,,✅,,,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used packaging when arrived, labeled in red pencil or pen",,,,,N/a
-Rustic,awvloan-038,yes,SLab,,Type,Metal type,Lead,Regular,36pt,,✅,Yes,no,,no,Large,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived",,,,,N/a
-Bodoni,awvloan-039,yes,SLab,,Type,Metal type,Lead,Ultra,36pt,,✅,Yes,,,,Large,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""MAR"".",,,,,N/a
-Bodoni,awvloan-040,yes,SLab,,Type,Metal type,Lead,Ultra,36pt,,✅,no,Yes,,,Large,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""MAR"".",,,,,N/a
-Bodoni,awvloan-041,yes,SLab,,Type,Metal type,Lead,Ultra Italic,30pt,,✅,,,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used packaging when arrived, labeled ""LC / 675K"" in red pencil or pen",,,,,N/a
-Copperplate,awvloan-042,yes,SLab,,Type,Metal type,Lead,"Unknown (ripped, so TBD)","Unknown (ripped, so TBD)",,✅,Yes,,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived.",,,,,N/a
-Crayonette,awvloan-043,yes,SLab,,Type,Metal type,Lead,,18pt,,✅,,,,,no,,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used ""typefounders inc. foundry type"" packaging when arrived.",,,,,N/a
-Crayonette,awvloan-044,yes,SLab,,Type,Metal type,Lead,,18pt,,✅,,,,,no,,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used ""typefounders inc. foundry type"" packaging when arrived.",,,,,N/a
-"Unknown typeface in ""30pt [illegible]"" brown paper packaging",awvloan-045,yes,SLab,,Type,Metal type,Lead,,30pt,,✅,,,,,Large,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,,,,N/a
-2 x spacing organization wooden trays,awvloan-046,yes,SLab,,Not type,Tools,Wood,,,"~16"" x 10"" each",,,,,,,,,,,Brian Browning (Michigan),From 2/27/2025 Letterpress Friend donor shipment #3.,,,n/a,,,
-11 full-size California type drawers,awvloan-047,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,John and Nancy Johnson (VA),"From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?). Part of 14 total shelves from that donation, but 3 are listed on a separate line due to gross webs/nests that I didn't feel up to cleaning out yet, so those 3 are taped over and stored in my basement. These 11 are stored in my living room currently.",,,n/a,,no,
-Type cabinet #1 (full of California cases),awvloan-048,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,n/a,,no,
-"Type cabinet #2 (full of ""Hamilton 2/3 Dearing"" cases)",awvloan-049,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff). ","See this link for the correct layout for this Hamilton ""2/3 Dearing Job Case"": http://www.alembicpress.co.uk/Typecases/ATDCASE.HTM",,n/a,,no,
-Tabletop C&P Pilot platen press,awvloan-050,yes,AWV,,Not type,Press,Iron,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",Currently in need of refurbishment; not yet ready to print with.,Yes,n/a,,no,
-Table for C&P Pilot press,awvloan-051,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,n/a,,no,
-Planer block #2,awvloan-052,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,,,,,n/a,,,
-Galley trays x 3,awvloan-053,yes,AWV,,Not type,Tools,Steel?,,,,,,,,,,,,,,,,,,n/a,,,
-Chase (as part of awvloan-050 C&P press),awvloan-054,yes,AWV,,Not type,Tools,Iron,,,,,,,,,,,,,,,,,,n/a,,,
-Slug cutter #2,awvloan-055,no,AWV,,Not type,Tools,Iron,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,Yes,n/a,,,
-Wood reglets organizer & reglets (many),awvloan-056,no,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,n/a,,,
-Large box of leading,awvloan-057,no,AWV,,Not type,Tools,Lead,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,n/a,,,
+* Alpha haracters: aaabbccddeeeeffgghhiiijjkklllmmnnnoooppqrrrsssstttuuuvvwwxyyz",Yes,,,N/a
+"""BELL TELEPHONE"" with sound wave",awv-024,yes,AWV,,Not type,Mixed type/illustration,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,Retro tech
+"""A real American boy!"" with boy image",awv-025,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,"Vibes: trans, androgynous, queer, FTM, FTN.",,,,LGBTQIA+
+"""An Honorary Fellow of""",awv-026,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,"Vibes: trans, gay, FTM.",,,,LGBTQIA+
+"""AV"" monogram with long line",awv-027,yes,AWV,,Not type,Catchword or lone sort,Copper?,,,,✅ (?),,,,,,,,,,,,,,,,N/a
+"""Camp"" in word bubble",awv-028,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,LGBTQIA+
+"""CAUTION""",awv-029,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,N/a
+"""Curses!"" man",awv-030,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Weird/funny
+"""Different, yes—and how they like it!"" with bread",awv-031,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,"Baking/cooking, Enthusiast"
+"""Do you want bread of quality?"" man",awv-032,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,"printed 2/24/2025, need to add here",Baking/cooking
+"""DON'T MISS""",awv-033,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,"Vibes: FTM, FTN, trans, agender, non-binary, anti-misgendering.",,,,LGBTQIA+
+"""EXTRA"" on banner",awv-034,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
+"""HEAVENLY"" two-color split catchword",awv-035,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,"Unusual catchword, ""Mortised, split, etc."""
+"""HERE'S YOUR""",awv-036,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,
+"""Here's the idea"" writing man",awv-098,yes,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,Weird/funny
+"""I'm a meat man..."" etc.",awv-038,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"LGBTQIA+, Weird/funny"
+"""Let's get acquainted"" form with 2 prompt fields and 2 dogs sniffing each other",awv-039,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,"printed 2/24/2025, need to add here","Dog, Animals, Weird/funny"
+"""LITERARY""",awv-040,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,Humanities
+"""Markdown!""",awv-041,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,"(listed as ""Vintage 1970's Suffolk VA"")",Yes,,,DH
+"""nature's best"" (#1)",awv-042,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,Vibes: trans. See also the other version of this catchword in our collections.,Yes,,,LGBTQIA+
+"""nature's best"" (#2)",awv-043,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,Vibes: trans. See also the other version of this catchword in our collections.,,,,LGBTQIA+
+"""nearly everybody likes""",awv-044,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,
+"""Pink Frolic""",awv-045,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,"Vibes: queer, subversive masculinity, subversive femininity.",Yes,,,LGBTQIA+
+"""Hope"" Gothic diagonal",awv-105,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,Unusual catchword
+"""HOT ROLLS""",awv-037,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,Baking/cooking
+"""PRINTING""",awv-091,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,Printing/book history
+"""The way to look at it"" comic about ""persecuted peoples"", ""shucks he's not a burden he's my brother""",awv-049,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,"(listed as ""Vintage 1970's Suffolk VA"")",Yes,,"printed 2/24/2025, need to add here","Humanities, Justice"
+"""Way to go"" with thumbs up, repeated 5 times",awv-050,yes,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
+"""WE BEG TO ANNOUNCE"" with politely announcing man",awv-051,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Manicule-ish
+"""Your Choice""",awv-052,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
+Dachshund (long-haired; dog),awv-053,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,"Dog, Animals"
+"""PROOF""",awv-046,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,Vibes: trans.,,,,"Baking/cooking, Enthusiast"
+2 cowboys riding horses,awv-055,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,"LGBTQIA+, Animals"
+2 knights on a horse,awv-056,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"LGBTQIA+, Animals"
+Queer buggy (2 men in carriage),awv-057,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,"printed 2/24/2025, need to add here","LGBTQIA+, Animals"
+3 exclamation marks (loose/separate; same typeface/size),awv-058,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Enthusiast
+"""Remember when""",awv-093,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,
+Anatomy muscle chart,awv-060,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,
+Angry man under framed area,awv-061,yes,AWV,,Not type,Illustration,Copper,,,,✅,,,,,,,,,,,,"Angry(?) man with hair standing on end, fists and foot out as if throwing tantrum, under framed area (not mortised)",Yes,,"printed 2/24/2025, need to add here",Manicule-ish
+Art deco corners,awv-062,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Abstract
+Blindfolded Justice with scales,awv-063,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Justice
+Border collie (dog),awv-064,yes,AWV,,Not type,Illustration,Lead,,,"2"" x 2""",✅ (?),,,,,,,,,,,,,,,,"Dog, Animals"
+Burning candle,awv-065,yes,AWV,,Not type,Illustration,Lead?,,,"1.75"" wide x 5"" tall",✅ (?),,,,,,,,,,,,,,,,
+Dragon/griffin,awv-066,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,,,,,Animals
+Fans & cheerleaders celebrating,awv-067,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
+Girl munching on slice of bread,awv-068,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Baking/cooking
+Greyhound #1,awv-069,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,"Dog, Animals"
+Happy woman,awv-070,yes,Lost? (see notes),,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,Lost? (may have thrown out in shipping packaging of other cuts bc very small; or may be somewhere in AWV house),,,,Enthusiast
+Historical person carrying tea tray,awv-071,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,"Vibes: trans, androgynous, queer, FTM, FTN.",Yes,,"printed 2/24/2025, need to add here","LGBTQIA+, Humanities, Baking/cooking"
+Large clock dial face,awv-072,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,Missing one numeral (7?). Are all numerals removable?,Yes,,,Retro tech
+Man jumping for joy,awv-073,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
+Androgynous saint with spear,awv-074,yes,AWV,,Not type,Illustration,Copper,,,"""~1.5"" x 1"" thick x 4.25"" tall""",✅ (?),,,,,,,,,,,,,Yes,,"printed 2/24/2025, need to add here","LGBTQIA+, Humanities"
+Medieval woman holding basket,awv-075,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,Unclear if basket holds bread or something else.,Yes,,"printed 2/24/2025, need to add here","Humanities, Baking/cooking"
+"""something special...""",awv-047,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
+Fishfaced man holding frame below him,awv-077,yes,AWV,,Not type,Illustration,Copper,,,,✅,,,,,,,,,,,,"Man has round face, eyes, open mouth (fishy expression, not actually fish-looking) and is leaning out a window, holding a sign that hangs below him (non-mortised)",Yes,,"printed 2/24/2025, need to add here",Manicule-ish
+Open trenchcoat seller (mortised!),awv-078,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,Has hole in center where other type can be fit (e.g. !!!) = mortised,Yes,,,"Manicule-ish, Weird/funny"
+Person beating their chest,awv-079,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,"Vibes: FTM, FTN, trans, chest binding, top surgery.",,,,LGBTQIA+
+Pouting baby (photorealistic),awv-080,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,Weird/funny
+Printers' ruler (metal),awv-081,yes,AWV,,Not type,Tools,Steel,,,,,,,,,,,,,,,,,,,,Printing/book history
+Rose on stem with leaves,awv-082,yes,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,,For bread & roses prints,,,,Plant
+"""the birth of a legend""",awv-048,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
+"""Sic Semper Tyrannis"" (motto of the state of Virginia)",awv-084,yes,AWV,,Not type,Illustration,,,,"2"" diameter disc",❌,,,,,,,,,,,,Unfortunately fully clothed (i.e. not the official state version). Unmounted (blue tape + three reglets allowed printing on Vandercook).,,,,Justice
+Single bracket,awv-085,yes,AWV,,Not type,Catchword or lone sort,Copper?,,,".5"" wide x 2"" tall",✅ (?),,,,,,,,,,,,,,,,
+2 carytids,awv-054,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,"Humanities, Abstract"
+Utensils arranged like rays of sunrise,awv-087,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Baking/cooking
+Abacus,awv-059,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Retro tech
+Heraldic unicorn,awv-116,no,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,"LGBTQIA+, Animals"
+"""Cookies!"" with munching bear",awv-090,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Large exclamation mark,awv-138,,AWV,,Not type,Catchword or lone sort,Wood,,,,✅ (?),,,,,,,,,,,,,Yes,,,Enthusiast
+Mortised frame and lightning bolt,awv-092,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Abstract
+"""Printed w/<3 by a trans [ ] printer [ ] ally [trans flag outline]""",awv-153,no,AWV,Yes (AWV),Not type,Mixed type/illustration,Wood (Cherry),,,,,,,,,,,,,,,,,,,,
+Jellyfish,awv-159,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Animals
+Large rectangle with diagonal pattern and small mortised frame,awv-139,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,Abstract
+Little mouse looking up,awv-117,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,Animals
+Two men on tandem bicycle,awv-095,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
+"Manicules with frills, x 2",awv-115,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,"Printing/book history, Manicule-ish"
+"""Whoopee"" man jumping for joy",awv-097,yes,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
+Masquerade couple,awv-094,yes,AWV,,Not type,Illustration,Copper?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,LGBTQIA+
+Franklin Gothic,awv-099,yes,AWV,,Type,Metal type,,Condensed,24pt,,✅,yes,yes,yes,yes,yes,no,yes,no,yes,,,ATF 163.,,,,N/a
+"Pug sticking out tongue, looking over boy's shoulder",awv-100,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals"
+"""Pride in progress""",awv-151,,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
+Pig in hat & dress,awv-152,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Animals, Weird/funny"
+Overlapping circles border rectangle,awv-101,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Abstract
+Provisional Press,awv-102,yes,AWV,,Not type,Press,Wood,,,,,,,,,,,,,,,,"Purchased & assembled by Amanda from kit for personal home use, Fall 2024.",Yes,,n/a,
+"""Gutenberg Press"" ""unfair to scribes"" monk picketer",awv-103,yes,AWV,,Not type,Mixed type/illustration,,,,,✅,,,,,,,,,,,,,Yes,,,"Printing/book history, Humanities"
+Multiple tiny gesticulating men,awv-076,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,"Enthusiast, Manicule-ish"
+Owl,awv-089,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,"Sitting on branch, looking at viewer. Useful for UVA ""Hoo"" stuff.",,,,Animals
+Globe on stand,awv-106,no,AWV,,Not type,Illustration,,,,"2"" wide x 2 5/8"" tall",✅,,,,,,,,,,,,,,,,Humanities
+"Borders: acorns, x 5",awv-107,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,"Abstract, Plant"
+"Borders: 2 straight lines with space between, x 16",awv-108,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,Abstract
+"Borders: swoops, x 2",awv-109,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,Abstract
+"Borders: square inside square, x 2",awv-110,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,Abstract
+Man with megaphone #2,awv-111,no,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Manicule-ish
+"""I want a dog""",awv-112,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Dog
+"""Ex Libris"" person astride fish",awv-113,no,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
+"2 pigs, having sex",awv-114,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Weird/funny, Animals"
+Palm-reading hand,awv-096,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Manicule-ish
+Parent bear looking at child bear,awv-129,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,"LGBTQIA+, Animals"
+Rat,awv-122,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,Animals
+Dracula face,awv-118,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
+Isle of Man flag-style three-legged thing,awv-119,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,Weird/funny
+"""is an excellent judge""",awv-120,no,AWV,,Not type,Catchword or lone sort,Lead?,,,,❌,,,,,,,,,,,,,Yes,Yes,,"Justice, Unusual catchword"
+"""critical tech! no 'innovation' serving profit over people "" Luddite",awv-121,no,AWV,"Yes, AWV",Not type,Mixed type/illustration,"Wood (unknown, likely maple)",,,,❌,"7"" wide x 5"" tall",,,,,,,,,,,"Lasercut. Somewhat burnt; print was uneven due to underside's past carving was not flat, no easy way to pack to fix. Burnt and weird-grained wood came through in print.",Yes,,,"Retro tech, DH, Humanities, Justice"
+Shaking hands,awv-083,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Manicule-ish
+Dragonfly and ant on foliage,awv-123,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,Yes,,"Animals, Plant"
+Starburst with comet tail,awv-104,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,"LGBTQIA+, Abstract"
+High Spot,awv-125,no,AWV,,Type,Metal type,Lead,,18pt,,✅,Yes,Yes,Yes,Yes,Yes,,Yes,No,,,,"Seller details said this type is from ""KelseyCo. - New England Type Foundry"". Purchased by Amanda from LetterpressThings.com 4/7/2025.",,,,N/a
+Franklin Gothic,awv-126,no,AWV,,Type,Metal type,Lead,Bold,24pt,,✅,Yes,Yes,Yes,Yes,Yes,,Yes,No,yes,,,Purchased by Amanda from LetterpressThings.com 4/7/2025.,,,,N/a
+Copperplate,awv-127,no,AWV,,Type,Metal type,Lead,,24pt,,✅,Yes,No,Yes,Yes,Yes,,Yes,,Yes,,,Purchased by Amanda from LetterpressThings.com 4/7/2025.,,,,N/a
+Gothic Condensed,awv-128,no,AWV,,Type,Metal type,Lead,Condensed,24pt,,✅,Yes,No,Yes,No,Yes,No,Yes,No,No,,,Purchased by Amanda from LetterpressThings.com 4/8/2025.,,,,
+Teacup and plate,awv-124,no,AWV,,Not type,Illustration,Copper,,,"5"" x 5""",❌,,,,,,,,,,,,Unmounted,Yes,Yes,,Baking/cooking
+"""Christ, what an asshole""",awv-130,no,AWV,"Yes, AWV",Not type,Catchword or lone sort,Wood (maple),,,,✅,,,,,,,,,,,,"Lasercut on type-high maple wood in March or April 2025. Uses the Open Caslon font to imitate the New Yorker cartoon captioning, using the Universal New Yorker Cartoon Caption text.",Yes,,,
+"""Oof"" manicule",awv-131,no,AWV,"Yes, AWV",Not type,Mixed type/illustration,gray linoleum,,,,✅ (?),,,,,,,,,,,,Lasercut. (Don't lasercut soft/pink linoleum!),Yes,,,
+"""Coffee + Code"" form",awv-132,no,AWV,"Yes, AWV",Not type,Mixed type/illustration,"Wood (unknown, likely maple)",,,,❌,"5"" wide x 5"" tall, with curve cut in lower-right corner",,,,,,,,,,,"Lasercut. Successful, unburnt block with good print result.",Yes,,,"Baking/cooking, DH"
+Fancydog (long-legged Maple; dog) #1,awv-133,no,AWV,"Yes, AWV",Not type,Illustration,Craft foam,,,,❌,,,,,,,,,,,,,,,,
+Greyhound #2,awv-134,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals"
+"""glitch"" (inverse)",awv-135,no,AWV,"Yes, AWV",Not type,Catchword or lone sort,Wood (maple),,,,✅,,,,,,,,,,,,,Yes,,,"DH, LGBTQIA+"
+"""Little Orphan Annie"" 3-panel comic strip",awv-136,no,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,"Purchased to experiment with milling away text in speech bubbles, for replacement with second-pass registered custom text",,,,
+"""Announcing"" (man with megaphone)",awv-137,yes,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Manicule-ish
+Tree & leaves L-shaped border,awv-086,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Plant
+Woman looking through binoculars,awv-088,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Retro tech
+Tea cannister,awv-140,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Victorian lady with camera,awv-141,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,"Yes, but could use sharper version once block arrives",,Retro tech
+"""Speaking in Faces"" by the Virginia Humanities Center for the Book: Book Arts Program",book-awv-001,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,"Part of Letterpress Core class materials, August 2024.",,"Bound specimen book for the Virginia Humanities Center for the Book: Book Arts Program printshop's hundreds of metal and wood type cases, plus information on how to understand basic typography and difference between similar type families.",,,,N/a
+"""Letterpress Core"" packet by Virginia Center for the Book: Book Arts Program",book-awv-002,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,"Part of Letterpress Core class materials, August 2024.",,"25-page packet printed on cardstock, containing glossary with long definitions of various letterpress terms, explanation of letterpress point sizes, discussion of Vandercook parts, etc.",,,,N/a
+"""Pressmen's Ink Handbook"" by H.J. Wolfe",book-awv-003,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,Garrett Queen,,Book on chemistry behind letterpress ink creation (and mixing?); at least several decades old.,,,,N/a
+"""Letterpress Now: A DIY Guide to New & Old Printing Methods"" by Jessica C. White",book-awv-004,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,,,,,N/a
+"""Cheap Copies! The OBSOLETE! Press Guide to DIY Hectography, Mimeography & Spirit Duplication"" by Rich Dane",book-awv-005,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,"For University of Virginia Rare Book School Summer 2025 class on ""Identifying and Understanding Twentieth-Century Duplicating Technologies"".",,,,N/a
+"""How to Identify Prints"" (2nd ed.) by Bamber Gascoigne ",book-awv-006,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,"For University of Virginia Rare Book School Summer 2025 class on ""Identifying and Understanding Twentieth-Century Duplicating Technologies"".",,,,N/a
+"""Studying Early Printed Books, 1450-1800"" by Sarah Werner",book-awv-007,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,,,,,N/a
+Wood type (TBD),awvloan-,no,AWV,,Type,Wood type,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,,N/a
+Metal type (TBD),awvloan-,no,AWV,,Type,Metal type,Lead,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,,N/a
+"Any other donated items, including 2 boxes, unmounted cuts",awvloan-,no,AWV,,,,,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,n/a,,,
+Unnamed brush script (name TBD) & special italic spacing,awvloan-001,yes,SLab,,Type,Wood type,Wood,Italic,TBD,,✅ (?),Yes,Yes,,Yes,no,no,Yes (# TBD),,no,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,Comes with wood spacing because the spacing needs to be diagonal to work. ,Yes,,,N/a
+Em fractions (spaces?),awvloan-002,yes,SLab,,Not type,Spacing,Lead?,,10pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,,,
+Spaces pack,awvloan-003,yes,SLab,,Not type,Spacing,Lead?,,30pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,,,
+Spaces pack,awvloan-004,yes,SLab,,Not type,Spacing,Lead?,,36pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,,,
+Quads & spaces pack,awvloan-005,yes,SLab,,Not type,Spacing,Lead?,,48pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,,,
+Quads & spaces pack,awvloan-006,yes,SLab,,Not type,Spacing,Lead?,,72pt,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,,,
+Wooden reglets,awvloan-007,yes,SLab,,Not type,Spacing,Wood,,,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 and 2/6/2025 Letterpress Friend donor shipments. ,,Yes,,,
+Leading,awvloan-008,yes,SLab,,Not type,Spacing,Lead?,,,,,,,,,,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,,,
+Wooden spacing blocks,awvloan-009,yes,SLab,,Not type,Spacing,Wood,,,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,,,,
+Composing stick,awvloan-010,yes,SLab,,Not type,Tools,Steel?,,,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,,Yes,,,
+Printers' ruler (metal),awvloan-011,yes,SLab,,Not type,Tools,Steel?,,,,,,,,,,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,,,
+Printers' ruler (wood),awvloan-012,yes,SLab,,Not type,Tools,Wood,,,,,,,,,,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,,,
+Old mounting block x 6(?),awvloan-013,yes,SLab,,Not type,Tools,Wood,,,,,,,,,,,,,,Brian Browning (Michigan),From 1/23/2025 and 2/6/2025 Letterpress Friend donor shipments. ,"3 large, 3 medium?",,,,
+Quoin key & 3 quoins,awvloan-014,yes,SLab,,Not type,Tools,Steel?,,,,,,,,,,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,,,
+3 full-size California type drawers,awvloan-015,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,John and Nancy Johnson (VA),"From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?). Part of 14 total shelves from that donation, but 11 are listed on a separate line due to these 3's gross webs/nests that I didn't feel up to cleaning out yet, so taped over and stored in my basement. The are 11 non-gross shelves stored in my living room currently.",,,,n/a,
+1 smaller type drawer without dividers,awvloan-016,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,John and Nancy Johnson (VA),"From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?)",,,,n/a,
+Planer block #1,awvloan-017,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,John and Nancy Johnson (VA),"From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?)",For leveling type on press bed.,,,n/a,
+Slug cutter #1,awvloan-018,no,AWV,,Not type,Tools,Iron,,,,,,,,,,,,,,John and Nancy Johnson (VA),"* From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?).","* There is a part missing on the top: a slide that would be used to set the length of slug. You could use a good magnet to set the length. The slide on the bottom does move, but could use some cleaning and oiling. It can also be used to set the length of slug being cut.",,,n/a,
+Caslon,awvloan-019,yes,SLab,,Type,Metal type,Lead,,"50? 60?pt, TBD",,✅,,,,,Large,no,,no,no,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used ""American Type Foundry"" packaging when arrived",,,,N/a
+Bond Script,awvloan-020,yes,SLab,,Type,Metal type,Lead,Regular,18pt,,✅,no,no,no,Yes,no,no,no,no,no,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used packaging when arrived, labeled in black marker",,,,N/a
+Eccliastic,awvloan-021,yes,SLab,,Type,Metal type,Lead,TBD,TBD,,✅,Yes,Yes,TBD,TBD,No,No,TBD,no,TBD,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used ""typefounders inc. foundry type"" packaging when arrived.",,,,N/a
+Bodoni,awvloan-022,yes,SLab,,Type,Metal type,Lead,Bold,10pt,,✅,Yes,no,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""AUG 29"".",,,,N/a
+Bodoni,awvloan-023,yes,SLab,,Type,Metal type,Lead,Bold,10pt,,✅,no,Yes,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""AUG 28"".",,,,N/a
+Bodoni,awvloan-024,yes,AWV,,Type,Metal type,Lead,Bold,18pt,,✅,no,Yes,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""JUL 28"".",,,,N/a
+Coronet,awvloan-025,yes,SLab,,Type,Metal type,Lead,Bold,18pt,,✅,no,Yes,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""NOV-9"".",,,,N/a
+Coronet,awvloan-026,yes,SLab,,Type,Metal type,Lead,Bold,18pt,,✅,Yes,no,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""NOV-8"".",,,,N/a
+Coronet,awvloan-027,yes,SLab,,Type,Metal type,Lead,Bold,24pt,,✅,Yes,no,,no,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""OCT 15"".",,,,N/a
+Coronet,awvloan-028,yes,SLab,,Type,Metal type,Lead,Bold,30pt,,✅,no,Yes,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""DEC 2"".",,,,N/a
+Copperplate,awvloan-029,yes,SLab,,Type,Metal type,Lead,Heavy,12pt,,✅,Yes,,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""SEP 5""",,,,N/a
+Copperplate (#1 of 2 in type style),awvloan-030,yes,SLab,,Type,Metal type,Lead,Heavy,6pt,,✅,Yes,,,,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""MAY-8""",,,,N/a
+Copperplate (#2 of 2 in type style),awvloan-031,yes,SLab,,Type,Metal type,Lead,Heavy,6pt,,✅,Yes,,,,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""AUG 28""",,,,N/a
+Coronet,awvloan-032,yes,SLab,,Type,Metal type,Lead,Light,36pt,,✅,no,Yes,,no,,,,no,Yes,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""MAY 1"" (difficult to read, may be incorrect).",,,,N/a
+Copperplate (#1 of 2 in type style),awvloan-033,yes,SLab,,Type,Metal type,Lead,Light,6pt,,✅,Yes,,,,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""NOW 23""",,,,N/a
+Copperplate (#2 of 2 in type style),awvloan-034,yes,SLab,,Type,Metal type,Lead,Light,6pt,,✅,Yes,,,,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""NOV 27""",,,,N/a
+Rustic (#1 of 2),awvloan-035,yes,SLab,,Type,Metal type,Lead,Regular,12pt,,✅,Yes,no,,no,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived.",,,,N/a
+Rustic (#2 of 2),awvloan-036,yes,SLab,,Type,Metal type,Lead,Regular,12pt,,✅,Yes,no,,no,no,Yes,1 of multiple packs,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment.,"In unopened, never-used Detroit Type Foundry packaging when arrived.",,,,N/a
+Bodoni,awvloan-037,yes,SLab,,Type,Metal type,Lead,Regular,20pt,,✅,,,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used packaging when arrived, labeled in red pencil or pen",,,,N/a
+Rustic,awvloan-038,yes,SLab,,Type,Metal type,Lead,Regular,36pt,,✅,Yes,no,,no,Large,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived",,,,N/a
+Bodoni,awvloan-039,yes,SLab,,Type,Metal type,Lead,Ultra,36pt,,✅,Yes,,,,Large,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""MAR"".",,,,N/a
+Bodoni,awvloan-040,yes,SLab,,Type,Metal type,Lead,Ultra,36pt,,✅,no,Yes,,,Large,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived; packaging marked ""MAR"".",,,,N/a
+Bodoni,awvloan-041,yes,SLab,,Type,Metal type,Lead,Ultra Italic,30pt,,✅,,,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used packaging when arrived, labeled ""LC / 675K"" in red pencil or pen",,,,N/a
+Copperplate,awvloan-042,yes,SLab,,Type,Metal type,Lead,"Unknown (ripped, so TBD)","Unknown (ripped, so TBD)",,✅,Yes,,,,no,no,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used Detroit Type Foundry packaging when arrived.",,,,N/a
+Crayonette,awvloan-043,yes,SLab,,Type,Metal type,Lead,,18pt,,✅,,,,,no,,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used ""typefounders inc. foundry type"" packaging when arrived.",,,,N/a
+Crayonette,awvloan-044,yes,SLab,,Type,Metal type,Lead,,18pt,,✅,,,,,no,,,no,Yes,Brian Browning (Michigan),From 1/23/2025 Letterpress Friend donor shipment. ,"In unopened, never-used ""typefounders inc. foundry type"" packaging when arrived.",,,,N/a
+"Unknown typeface in ""30pt [illegible]"" brown paper packaging",awvloan-045,yes,SLab,,Type,Metal type,Lead,,30pt,,✅,,,,,Large,,,,,Brian Browning (Michigan),From 2/6/2025 Letterpress Friend donor shipment.,,,,,N/a
+2 x spacing organization wooden trays,awvloan-046,yes,SLab,,Not type,Tools,Wood,,,"~16"" x 10"" each",,,,,,,,,,,Brian Browning (Michigan),From 2/27/2025 Letterpress Friend donor shipment #3.,,,,n/a,
+11 full-size California type drawers,awvloan-047,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,John and Nancy Johnson (VA),"From 2/18/2025 2nd Letterpress Helper (DC suburbs) donated, Jeremy picked up in car, brought to Amanda's for refurbishment and cleaning and type distribution & cabinet holder building, before deciding where to put in SLab (Summer 2025 goal?). Part of 14 total shelves from that donation, but 3 are listed on a separate line due to gross webs/nests that I didn't feel up to cleaning out yet, so those 3 are taped over and stored in my basement. These 11 are stored in my living room currently.",,,,n/a,
+Type cabinet #1 (full of California cases),awvloan-048,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,n/a,
+"Type cabinet #2 (full of ""Hamilton 2/3 Dearing"" cases)",awvloan-049,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff). ","See this link for the correct layout for this Hamilton ""2/3 Dearing Job Case"": http://www.alembicpress.co.uk/Typecases/ATDCASE.HTM",,,n/a,
+Tabletop C&P Pilot platen press,awvloan-050,yes,AWV,,Not type,Press,Iron,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",Currently in need of refurbishment; not yet ready to print with.,Yes,,n/a,
+Table for C&P Pilot press,awvloan-051,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,n/a,
+Planer block #2,awvloan-052,yes,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,,,,,,n/a,
+Galley trays x 3,awvloan-053,yes,AWV,,Not type,Tools,Steel?,,,,,,,,,,,,,,,,,,,n/a,
+Chase (as part of awvloan-050 C&P press),awvloan-054,yes,AWV,,Not type,Tools,Iron,,,,,,,,,,,,,,,,,,,n/a,
+Slug cutter #2,awvloan-055,no,AWV,,Not type,Tools,Iron,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,Yes,,,
+Wood reglets organizer & reglets (many),awvloan-056,no,AWV,,Not type,Tools,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,n/a,
+Large box of leading,awvloan-057,no,AWV,,Not type,Tools,Lead,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,n/a,
 "Unnamed sans serif (""Hamilton Slab Black Condensed"")",slab-001,yes,SLab,,Type,Wood type,Wood,Regular,TBD,"10 pica / 10 line; 1-5/8 inches"" tall",✅ (?),yes,no,yes,yes,no,no,yes,"6, 9",no,,,"* Inexpensive ($150), unlovely, don't have to be precious with it.
 * 150 characters
-* ""Looks similar to Rockwell Extra Bold Condensed but some characteristics aren't a match. Possibly Not an official specimen. Accordingly, IDing as Slab Face Black Condensed but Not using a specific font name.""",Yes,,,,N/a
+* ""Looks similar to Rockwell Extra Bold Condensed but some characteristics aren't a match. Possibly Not an official specimen. Accordingly, IDing as Slab Face Black Condensed but Not using a specific font name.""",Yes,,,N/a
 Visual braille,slab-002,yes,SLab,,Type,Metal type,Lead?,Regular,TBD,28.5 points (see Notes),✅,yes,no,no,yes,no,no,no,no,no,,,"* ""This 'visual font' was created in order to increase awareness of braille and allow sighted people to experience braille.""
 * This version of braille is ""basic"" or ""Grade I braille. (""Advanced braille uses many contractions to augment the a-z alphabet in order to make the text much more compact. Making a metal face of advanced braille would entail a far larger character count."")
 * How to use visual braille type (from Swamp Press type foundry website):
@@ -216,21 +243,21 @@ Visual braille,slab-002,yes,SLab,,Type,Metal type,Lead?,Regular,TBD,28.5 points 
 -Leading: the official standard for vertical height of the braille cell is 0.4"" or 28.5 points, which for letterpress is very, very inconvenient. So I recommend using 4 pts leading and if one wants to be persnickety add in another half point.
 -Capitals: a special character denotes that the following character is capitalized. In this font ""•C•"" on the shoulder means ""Cap"".
 -Numerals: numerals are created by adding the numeral character (# on the shoulder) before the letter """" for the numeral 1, ""b"" following means 2, and so on. So ""#a#b"" indicates the numeral ""12"".
-* More info: https://www.swamppress.com/braille-unique.html",Yes,,,,N/a
+* More info: https://www.swamppress.com/braille-unique.html",Yes,,,Multilingual
 Embossing braille,slab-003,yes,SLab,,Type,Metal type,Lead?,Regular,TBD,28.5 points (see Notes),✅,yes,no,no,yes,no,no,no,no,no,,,"* This version of braille is ""basic"" or ""Grade I braille. (""Advanced braille uses many contractions to augment the a-z alphabet in order to make the text much more compact. Making a metal face of advanced braille would entail a far larger character count."")
 * How to use embossing braille type (from Swamp Press type foundry website): 
 -Setting: on the shoulder of the type is the character identification in relief, and this will not emboss but aids in setting, proofing and redistribution.
 -Spacing: all printed braille is 0.245"" wide in set, so spaces are included in my fonts. Regular 24 pt spacing can also be used.
 -Leading: the official standard for vertical height of the braille cell is 0.4"" which is 28.5 points, which for letterpress is very inconvenient. So I recommend using 4 pts leading and if one wants to be persnickety add in another half point.
 -Capitals: a special character denotes that the following character is capitalized. In this font ""•C•"" on the shoulder means ""Cap."" Numerals: numerals are -created by adding the numeral character (# on the shoulder) before the letter ""a"" for the numeral 1, ""b"" following is 2, and so on. So ""#a#b"" indicates the numeral ""12"".
-* More info: https://www.swamppress.com/braille-embossing.html",Yes,,,,N/a
-"""Build Now: you will have Nothing to regret"" & background illustration",slab-004,yes,SLab,,Not type,Mixed type/illustration,Copper,,,"4"" wide x 2"" tall",✅ (?),,,,,,,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",Yes,,,,N/a
-"""Building activity is justified as never before"" and background forest illustration",slab-005,yes,SLab,,Not type,Mixed type/illustration,Copper,,,"4"" wide x 2"" tall",✅ (?),,,,,,,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",Yes,,,,N/a
-"""Our experienced building advice is yours for the asking"" with background illustration of two suited men looking at documents",slab-006,yes,SLab,,Not type,Mixed type/illustration,Copper,,,"4"" wide x 2"" tall",✅ (?),,,,,,,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",Yes,,,,N/a
-"""Electrifying History""",slab-007,yes,SLab,,Not type,Mixed type/illustration,Lead,,,"3"" wide x .5"" tall",✅ (?),,,,,,,,,,,,,Yes,,,,"Humanities, Retro tech, DH"
-"""Information""",slab-008,yes,SLab,,Not type,Mixed type/illustration,Lead,,,"2"" wide x 7/16"" tall",✅ (?),,,,,,,,,,,,,Yes,,,,DH
-COFFEE,slab-009,yes,SLab,,Not type,Catchword or lone sort,Lead?,,,,❌,,,,,,,,,,,,,,,,,Baking/cooking
-"""LOOK!!""",slab-010,yes,SLab,,Not type,Catchword or lone sort,Copper?,,,"5"" wide x 7/8"" tall",✅ (?),,,,,,,,,,,,,Yes,,,,Enthusiast
-BookBeetle,slab-011,yes,SLab,,Not type,Press,Wood,,,,,,,,,,,,,,,,Purchased by SLab between 2021-2023.,Yes,n/a,,no,
-"[Box of type & spacing, to sort and divide into ID'd items here]",,,,,,,,,,,,,,,,,,,,,John and Nancy Johnson (VA),"* From 3/18/2025 2nd Letterpress Helper (DC suburbs, John & Nancy Johnson) donated, Jeremy picked up in car, brought to Amanda's for cleaning and type distribution, before deciding where to put in SLab (Summer 2025 goal?).",,,n/a,,,
-"[Box of type & spacing & blocks, to sort and divide into ID'd items here]",,,,,,,,,,,,,,,,,,,,,Brian Browning (Michigan),From 3/18/2025 Letterpress Friend (Brian Browning) shipment,,,n/a,,,
+* More info: https://www.swamppress.com/braille-embossing.html",Yes,,,Multilingual
+"""Build Now: you will have Nothing to regret"" & background illustration",slab-004,yes,SLab,,Not type,Mixed type/illustration,Copper,,,"4"" wide x 2"" tall",✅ (?),,,,,,,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",Yes,,,Making/craft/building
+"""Building activity is justified as never before"" and background forest illustration",slab-005,yes,SLab,,Not type,Mixed type/illustration,Copper,,,"4"" wide x 2"" tall",✅ (?),,,,,,,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",Yes,,,Making/craft/building
+"""Our experienced building advice is yours for the asking"" with background illustration of two suited men looking at documents",slab-006,yes,SLab,,Not type,Mixed type/illustration,Copper,,,"4"" wide x 2"" tall",✅ (?),,,,,,,,,,,,"Useful for the DH coding and makerspace ""building"" I and Scholars' Lab do.",Yes,,,Making/craft/building
+"""Electrifying History""",slab-007,yes,SLab,,Not type,Mixed type/illustration,Lead,,,"3"" wide x .5"" tall",✅ (?),,,,,,,,,,,,,Yes,,,"Humanities, Retro tech, DH"
+"""Information""",slab-008,yes,SLab,,Not type,Mixed type/illustration,Lead,,,"2"" wide x 7/16"" tall",✅ (?),,,,,,,,,,,,,Yes,,,DH
+COFFEE,slab-009,yes,SLab,,Not type,Catchword or lone sort,Lead?,,,,❌,,,,,,,,,,,,,Yes,,,Baking/cooking
+"""LOOK!!""",slab-010,yes,SLab,,Not type,Catchword or lone sort,Copper?,,,"5"" wide x 7/8"" tall",✅ (?),,,,,,,,,,,,,Yes,,,Enthusiast
+BookBeetle,slab-011,yes,SLab,,Not type,Press,Wood,,,,,,,,,,,,,,,,Purchased by SLab between 2021-2023.,Yes,,n/a,N/a
+"[Box of type & spacing, to sort and divide into ID'd items here]",,no,AWV,,,,,,,,,,,,,,,,,,John and Nancy Johnson (VA),"* From 3/18/2025 2nd Letterpress Helper (DC suburbs, John & Nancy Johnson) donated, Jeremy picked up in car, brought to Amanda's for cleaning and type distribution, before deciding where to put in SLab (Summer 2025 goal?).",,n/a,,,
+"[Box of type & spacing & blocks, to sort and divide into ID'd items here]",,no,AWV,,,,,,,,,,,,,,,,,,Brian Browning (Michigan),From 3/18/2025 Letterpress Friend (Brian Browning) shipment,,n/a,,,
