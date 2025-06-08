@@ -1,6 +1,14 @@
 Description,ID,Labeled?,Current-Location,DIY?,Category,Sub-category,Material,Style,Point-size,Dimensions,Typehigh,Upper-case,Lower-case,Punctuation,Numbers,Abnormal-pack-size,1-of-multiple-packs-exact-style-size,Multiple-per-char,Missing-chars,More-typefamily,Donator,Donation-notes,Notes,Block-print-file-in-directory,Block-photo-flipped,Print-photo,Tags
 Pepsi bottles,awv-155,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
 Person in dress & person in cowboy attire awarding each other,awv-156,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
+Muffin,awv-210,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Sea anemone,awv-208,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Plant, Animals"
+Packaged loaf of bread,awv-205,,AWV,,Not type,Illustration,Lead?,,,"6"" x 4.5 """,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+"""Rain can't harm / Frost can't hurt / Insects can't touch""",awv-207,,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Unusual catchword
+Old telephone,awv-206,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Retro tech
+Cascasde of Hormel meats,awv-204,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Baking/cooking, Weird/funny"
+Acrylic type,awv-202,no,AWV,"Yes, by AWV",Type,"Other material, type",Acrylic,,,,❌,,,,,,,,,,,,,,,,N/a
+Floor platen press,awv-203,no,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Printing/book history, Retro tech"
 """Don't""",awv-157,no,AWV,,Not type,Catchword or lone sort,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Unusual catchword
 """Special"" (#1 of 2 with same word)",awv-158,no,AWV,,Not type,Catchword or lone sort,Copper?,,,,✅ (?),,,,,,,,,,,,"Brush caps italic, rough banner background",Yes,,,Enthusiast
 """Special"" (#2 of 2 with same word)",awv-200,no,AWV,,Not type,Catchword or lone sort,Copper?,,,,✅ (?),,,,,,,,,,,,Bordered,Yes,,,Enthusiast
@@ -26,6 +34,7 @@ Human head cross-section,awv-142,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,
 Toaster oven,awv-008,yes,AWV,,Not type,Illustration,Lead,,,"2"" wide x 1"" high",✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
 Sniffing hound,awv-009,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals"
 """AND""",awv-010,yes,AWV,,Not type,Catchword or lone sort,Lead,,,"1"" wide x 7/8"" tall",✅ (?),,,,,,,,,,,,,Yes,,,N/a
+Victorian woman at typewriter looking over shoulder,awv-209,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Retro tech
 &,awv-011,yes,AWV,,Not type,Catchword or lone sort,Wood,,,"5/8"" wide x 1 11/16"" tall",✅,,,,,,,,,,,,,Yes,,,
 Jaunty manicule #1,awv-012,yes,AWV,,Not type,Illustration,Lead,,,,✅ (?),,,,,,,,,,,,"Want to look up history/name of this particular cut, as I've seen it in multiple places so it must be one of those named ones",Yes,,,Manicule-ish
 Jaunty exclamation mark,awv-013,yes,AWV,,Not type,Catchword or lone sort,Lead,,,,✅ (?),,,,,,,,,,,,,Yes,,,
@@ -135,7 +144,7 @@ Globe on stand,awv-106,no,AWV,,Not type,Illustration,,,,"2"" wide x 2 5/8"" tall
 "Borders: swoops, x 2",awv-109,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,Abstract
 "Borders: square inside square, x 2",awv-110,no,AWV,,Not type,Illustration,,,,,✅,,,,,,,,,,,,,,,,Abstract
 Man with megaphone #2,awv-111,no,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Manicule-ish
-"""I want a dog""",awv-112,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Dog
+"""I want a dog""",awv-112,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,"Requires slugs on other side to mount (linotype, so not block mount but not unmounted)",Yes,,,Dog
 """Ex Libris"" person astride fish",awv-113,no,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
 "2 pigs, having sex",awv-114,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Weird/funny, Animals"
 Palm-reading hand,awv-096,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Manicule-ish
@@ -157,7 +166,7 @@ Teacup and plate,awv-124,no,AWV,,Not type,Illustration,Copper,,,"5"" x 5""",❌,
 """Oof"" manicule",awv-131,no,AWV,"Yes, AWV",Not type,Mixed type/illustration,gray linoleum,,,,✅ (?),,,,,,,,,,,,Lasercut. (Don't lasercut soft/pink linoleum!),Yes,,,
 """Coffee + Code"" form",awv-132,no,AWV,"Yes, AWV",Not type,Mixed type/illustration,"Wood (unknown, likely maple)",,,,❌,"5"" wide x 5"" tall, with curve cut in lower-right corner",,,,,,,,,,,"Lasercut. Successful, unburnt block with good print result.",Yes,,,"Baking/cooking, DH"
 Fancydog (long-legged Maple; dog) #1,awv-133,no,AWV,"Yes, AWV",Not type,Illustration,Craft foam,,,,❌,,,,,,,,,,,,,,,,
-Greyhound #2,awv-134,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals"
+Greyhound #2,awv-134,no,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,"Does not print well (tested by overprinting and still has uncompleted lines, poor detail, not great)",Yes,,,"Dog, Animals"
 """glitch"" (inverse)",awv-135,no,AWV,"Yes, AWV",Not type,Catchword or lone sort,Wood (maple),,,,✅,,,,,,,,,,,,,Yes,,,"DH, LGBTQIA+"
 """Little Orphan Annie"" 3-panel comic strip",awv-136,no,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,"Purchased to experiment with milling away text in speech bubbles, for replacement with second-pass registered custom text",,,,
 """Announcing"" (man with megaphone)",awv-137,yes,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Manicule-ish
@@ -172,6 +181,7 @@ Victorian lady with camera,awv-141,no,AWV,,Not type,Illustration,Lead?,,,,✅ (?
 """Cheap Copies! The OBSOLETE! Press Guide to DIY Hectography, Mimeography & Spirit Duplication"" by Rich Dane",book-awv-005,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,"For University of Virginia Rare Book School Summer 2025 class on ""Identifying and Understanding Twentieth-Century Duplicating Technologies"".",,,,N/a
 """How to Identify Prints"" (2nd ed.) by Bamber Gascoigne ",book-awv-006,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,"For University of Virginia Rare Book School Summer 2025 class on ""Identifying and Understanding Twentieth-Century Duplicating Technologies"".",,,,N/a
 """Studying Early Printed Books, 1450-1800"" by Sarah Werner",book-awv-007,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,,,,,N/a
+"""A New Introduction to Bibliography"" by Phillip Gaskell",book-awv-008,no,AWV,,Not type,Book/packet,,,,,n/a,,,,,,,,,,,,"For University of Virginia Rare Book School Summer 2025 class on ""Identifying and Understanding Twentieth-Century Duplicating Technologies"".",,,,
 Wood type (TBD),awvloan-,no,AWV,,Type,Wood type,Wood,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,,N/a
 Metal type (TBD),awvloan-,no,AWV,,Type,Metal type,Lead,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,,,,N/a
 "Any other donated items, including 2 boxes, unmounted cuts",awvloan-,no,AWV,,,,,,,,,,,,,,,,,,"Barbara Payne (Free Union, VA)","Part of 3/12/2025 donation to AWV by Barbara Payne (Letterpress Friend #3), a VABC alum; will move what SLab can take there, probably Summer 2025. AWV paid for movers out of pocket ($320) and is doing heavy cleaning (some really nested-in/bug encrusted stuff).",,n/a,,,
