@@ -1,9 +1,24 @@
 Description,ID,Labeled?,Current-Location,DIY?,Category,Sub-category,Material,Style,Point-size,Dimensions,Typehigh,Upper-case,Lower-case,Punctuation,Numbers,Abnormal-pack-size,1-of-multiple-packs-exact-style-size,Multiple-per-char,Missing-chars,More-typefamily,Donator,Donation-notes,Notes,Block-print-file-in-directory,Block-photo-flipped,Print-photo,Tags
+Pug with flowers,awv-224,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals, Plant"
+Double fish Art Nouveau ornament,awv-225,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Animals
 Pepsi bottles,awv-155,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Rotary Telephone face,awv-218,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Retro tech
+Snail,awv-219,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Animals
+Bee amid flowers,awv-220,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Animals, Plant"
+Border with monkeys,awv-221,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Animals
+,awv-222,,,,,,,,,,,,,,,,,,,,,,,,,,
+,awv-223,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carroll Queen of Hearts,awv-215,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Humanities
+Tabletop screw press,awv-216,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Printing/book history, Making/craft/building"
+Art Nouveau fish underwater,awv-217,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,,,,Animals
 Person in dress & person in cowboy attire awarding each other,awv-156,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,LGBTQIA+
+Dog silhouette #1 (upright),awv-213,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals"
+Dog silhouette #2 (pointing),awv-214,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals"
 Muffin,awv-210,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
 Sea anemone,awv-208,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Plant, Animals"
 Packaged loaf of bread,awv-205,,AWV,,Not type,Illustration,Lead?,,,"6"" x 4.5 """,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+Loaf of bread,awv-211,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Baking/cooking
+"""Nerves!""",awv-212,,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Weird/funny
 """Rain can't harm / Frost can't hurt / Insects can't touch""",awv-207,,AWV,,Not type,Mixed type/illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Unusual catchword
 Old telephone,awv-206,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,Retro tech
 Cascasde of Hormel meats,awv-204,,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Baking/cooking, Weird/funny"
@@ -104,6 +119,8 @@ Large clock dial face,awv-072,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,
 Man jumping for joy,awv-073,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
 Androgynous saint with spear,awv-074,yes,AWV,,Not type,Illustration,Copper,,,"""~1.5"" x 1"" thick x 4.25"" tall""",✅ (?),,,,,,,,,,,,,Yes,,"printed 2/24/2025, need to add here","LGBTQIA+, Humanities"
 Medieval woman holding basket,awv-075,yes,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,Unclear if basket holds bread or something else.,Yes,,"printed 2/24/2025, need to add here","Humanities, Baking/cooking"
+St. Bernard,awv-227,,AWV,,Not type,Illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"Dog, Animals"
+"""Confidence"" mortised scales",awv-228,,AWV,,Not type,Mixed type/illustration,,,,,✅ (?),,,,,,,,,,,,,Yes,,,"""Mortised, split, etc."", Justice"
 """something special...""",awv-047,yes,AWV,,Not type,Catchword or lone sort,,,,,✅ (?),,,,,,,,,,,,,,,,Enthusiast
 Fishfaced man holding frame below him,awv-077,yes,AWV,,Not type,Illustration,Copper,,,,✅,,,,,,,,,,,,"Man has round face, eyes, open mouth (fishy expression, not actually fish-looking) and is leaning out a window, holding a sign that hangs below him (non-mortised)",Yes,,"printed 2/24/2025, need to add here",Manicule-ish
 Open trenchcoat seller (mortised!),awv-078,yes,AWV,,Not type,Illustration,Lead?,,,,✅ (?),,,,,,,,,,,,Has hole in center where other type can be fit (e.g. !!!) = mortised,Yes,,,"Manicule-ish, Weird/funny"
@@ -269,5 +286,6 @@ Embossing braille,slab-003,yes,SLab,,Type,Metal type,Lead?,Regular,TBD,28.5 poin
 COFFEE,slab-009,yes,SLab,,Not type,Catchword or lone sort,Lead?,,,,❌,,,,,,,,,,,,,Yes,,,Baking/cooking
 """LOOK!!""",slab-010,yes,SLab,,Not type,Catchword or lone sort,Copper?,,,"5"" wide x 7/8"" tall",✅ (?),,,,,,,,,,,,,Yes,,,Enthusiast
 BookBeetle,slab-011,yes,SLab,,Not type,Press,Wood,,,,,,,,,,,,,,,,Purchased by SLab between 2021-2023.,Yes,,n/a,N/a
+Mimeograph,awv-226,no,AWV,,Not type,Press,Other,,,,,,,,,,,,,,,,,n/a,,,N/a
 "[Box of type & spacing, to sort and divide into ID'd items here]",,no,AWV,,,,,,,,,,,,,,,,,,John and Nancy Johnson (VA),"* From 3/18/2025 2nd Letterpress Helper (DC suburbs, John & Nancy Johnson) donated, Jeremy picked up in car, brought to Amanda's for cleaning and type distribution, before deciding where to put in SLab (Summer 2025 goal?).",,n/a,,,
 "[Box of type & spacing & blocks, to sort and divide into ID'd items here]",,no,AWV,,,,,,,,,,,,,,,,,,Brian Browning (Michigan),From 3/18/2025 Letterpress Friend (Brian Browning) shipment,,n/a,,,
