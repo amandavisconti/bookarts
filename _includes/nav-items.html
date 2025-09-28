@@ -1,20 +1,9 @@
 <div class="nav-items">
-  {%- for path in include.paths -%}
-  {%- assign hyperpage = site.pages | where: "path", path | first -%}
-  {%- if hyperpage.title %}
-  <a class="nav-item" href="{{ hyperpage.url | relative_url }}">
-		{% if hyperpage.title == "Book Arts FAQ" %}
-			{{ hyperpage.title | escape }} 🤔
-		{% elsif hyperpage.title == "C&P Restoration" %}
-			{{ hyperpage.title | escape }} 🔧	
-		{% elsif hyperpage.title == "If Lost" %}
-			{{ hyperpage.title | escape }} 😢	
-		{% elsif hyperpage.title == "Specimen Book (Grid View)" %}
-			{{ hyperpage.title | escape }} 🏁	
-		{% elsif hyperpage.title == "Specimen Book (Table View)" %}
-			{{ hyperpage.title | escape }} 📊		
-		{% endif %}  
-  </a>
-  {%- endif -%}
-  {%- endfor %}
+<a class="nav-item" href="/pages/explore/block-stats">🧱 BLOCK stats</a>  |  
+<a class="nav-item" href="/pages/explore/blocks-gallery">🧱 BLOCK gallery</a>  |   
+<a class="nav-item" href="/pages/explore/type-list">🔤 TYPE list</a>  |  
+<a class="nav-item" href="/pages/explore/type-gallery">🔤T YPE gallery</a>  |  
+<a class="nav-item" href="/pages/explore/type-stats">🔤 TYPE stats</a>  |  
+<a class="nav-item" href="/pages/explore/presses">🗜️ Presses</a>  |  
+<a class="nav-item" href="/pages/explore/queer-lp">🏳️‍🌈 Queer letterpress </a>
 </div>

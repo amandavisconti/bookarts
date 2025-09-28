@@ -101,15 +101,13 @@ pre {
     padding-left: 0; }
 
 .wrapper {
-  max-width: 1200px;
+
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -178,9 +176,7 @@ table {
       margin-right: 20px; }
   @media screen and (max-width: 600px) {
     .site-nav {
-      position: absolute;
-      top: 9px;
-      right: 15px;
+
       background-color: #fdfdfd;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
@@ -387,4 +383,20 @@ h3 {
 /** Specimen Book (Table Version) Styling **/
 td.smaller {
 	font-size: .75em;
+}
+
+.iframecont {
+
+  width: 100%;
+  padding-bottom: 56.25%; /* For a 16:9 aspect ratio (height / width * 100) */
+  height: 0; /* Important to collapse the container's height and let padding-bottom define it */
+  overflow: hidden; /* Hides any overflow from the iframe */
+}
+
+.iframecont .airtable-embed {
+position: absolute;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none; /* Removes default iframe border */
 }

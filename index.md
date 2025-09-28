@@ -1,7 +1,18 @@
 ---
 layout: home
 ---
-Welcome! I don't yet know the name for our new DH book arts (project? press?), but I'm hoping collecting our public documentation here will eventually reveal a perfectly punny, im-pressive press name.
+
+Links:  
+* [C&P Pilot Refurb](/pages/c-and-p-pilot-press-restoration)  
+* [Lost & found](/pages/if-lost)  
+* [Gallery](/pages/letterpress-gallery)  
+* [Moveable Feast draft](/pages/moveablefeast)  
+* [Specimen & supplies: grid](/pages/specimenbook-grid)  
+* [Specimen & supplies: table](/pages/specimenbook-table)  
+
+Welcome! This text is a bit outdated now, but:
+
+I don't yet know the name for our new DH book arts (project? press?), but I'm hoping collecting our public documentation here will eventually reveal a perfectly punny, im-pressive press name.
 
 # How is this different from other local book arts resources?
 We're focusing on 3 areas currently less supported by Charlottesville's wealth of bibliographic and book arts resources:
